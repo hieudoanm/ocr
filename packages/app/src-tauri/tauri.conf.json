@@ -1,8 +1,8 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "QRCode",
+  "productName": "OCR",
   "version": "0.0.1",
-  "identifier": "io.github.hieudoanm.qrcode",
+  "identifier": "io.github.hieudoanm.ocr",
   "build": {
     "frontendDist": "../../docs",
     "devUrl": "http://localhost:3000",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "QRCode",
+        "title": "OCR",
         "width": 800,
         "height": 600,
         "resizable": true,
