@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import re
 
 
 # API endpoint
@@ -26,51 +27,66 @@ def fetch_emojis():
     return response.json()
 
 
+# ✅ NEW: Convert URL → Emoji
+def url_to_emoji(url: str) -> str:
+    match = re.search(r"/unicode/([a-f0-9\-]+)\.png", url)
+    if not match:
+        return ""  # non-unicode (custom GitHub emoji)
+
+    codes = match.group(1).split("-")
+    try:
+        return "".join(chr(int(code, 16)) for code in codes)
+    except Exception:
+        return ""
+
+
+# ✅ NEW: Transform dataset
+def transform_emojis(data: dict) -> dict:
+    transformed = {}
+
+    for key, url in data.items():
+        emoji = url_to_emoji(url)
+
+        # fallback to original URL if cannot convert
+        transformed[key] = emoji if emoji else url
+
+    return transformed
+
+
 def save_json(data, filename):
     """Save JSON data to a file"""
     with open(filename, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
+        json.dump(data, f, indent=2, ensure_ascii=False)
     print(f"Saved JSON data to {filename}")
 
 
 def save_list(data, filename):
     """Save all keys (emoji names) to a text file with :key: format"""
     keys: list[str] = sorted(data.keys())
-    formatted_keys = [
-        f"- :{key}: `:{key}:`" for key in keys
-    ]  # Wrap each key with colons
+    formatted_keys = [f"- :{key}: `:{key}:`" for key in keys]
     with open(filename, "w", encoding="utf-8") as f:
         f.write("\n".join(formatted_keys))
     print(f"Saved all emoji keys (with colons) to {filename}")
 
 
 def save_images(data, filename):
-    """Save all keys (emoji names) to a text file with :key: format"""
+    """Save all keys (emoji names) to a text file with image markdown"""
     IMAGES_URL = (
-        "https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images/"
+        "https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images"
     )
     keys: list[str] = sorted(data.keys())
-    formatted_keys = [
-        f"- ![{key}]({IMAGES_URL}/{key}.png)" for key in keys
-    ]  # Wrap each key with colons
+    formatted_keys = [f"- ![{key}]({IMAGES_URL}/{key}.png)" for key in keys]
     with open(filename, "w", encoding="utf-8") as f:
         f.write("\n".join(formatted_keys))
-    print(f"Saved all emoji keys (with colons) to {filename}")
+    print(f"Saved all emoji image markdown to {filename}")
 
 
 def download_images(data, skip_existing=True):
-    """
-    Download all emoji images from GitHub.
-
-    Args:
-        data (dict): Mapping of emoji name to image URL.
-        skip_existing (bool): If True, skip downloading files that already exist.
-    """
+    """Download all emoji images from GitHub"""
     print("Downloading emoji images...")
     for name, url in data.items():
         image_path = os.path.join(IMAGES_DIR, f"{name}.png")
 
-        # Skip if file exists
         if skip_existing and os.path.exists(image_path):
             print(f"Skipping (already exists): {name}")
             continue
@@ -85,17 +101,24 @@ def download_images(data, skip_existing=True):
             print(f"Failed to download {name}: {e}")
 
 
+# =========================
+# Run
+# =========================
+
 # Fetch data
 emojis = fetch_emojis()
 
-# Save JSON
-save_json(emojis, JSON_FILE)
+# ✅ Transform URLs → emoji characters
+converted_emojis = transform_emojis(emojis)
 
-# Save keys to text file
-save_list(emojis, EMOJIS_LIST_FILE)
+# Save JSON (converted)
+save_json(converted_emojis, JSON_FILE)
 
-# Save image markdown links to text file
-save_images(emojis, EMOJIS_IMAGE_FILE)
+# Save keys
+save_list(converted_emojis, EMOJIS_LIST_FILE)
 
-# Download images
+# Save image markdown
+save_images(converted_emojis, EMOJIS_IMAGE_FILE)
+
+# Download images (still use original URLs)
 download_images(emojis)

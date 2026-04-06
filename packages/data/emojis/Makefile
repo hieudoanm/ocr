@@ -1,2 +1,2 @@
-query:
-	python3 -m main
+build:
+	uv run main.py
