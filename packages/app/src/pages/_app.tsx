@@ -1,4 +1,4 @@
-import '@ocr/styles/globals.css';
+import '@emojis/styles/globals.css';
 import { HeadTemplate } from '../templates/HeadTemplate';
 import type { AppProps } from 'next/app';
 import { Geist, Geist_Mono } from 'next/font/google';
@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 const App: FC<AppProps> = ({ Component, pageProps }) => {
   return (
     <>
-      <HeadTemplate basic={{ title: 'OCR' }} />
+      <HeadTemplate basic={{ title: 'Emojis' }} />
       <div className={`${geistSans.className} ${geistMono.className}`}>
         <Component {...pageProps} />
       </div>

@@ -1,0 +1,3884 @@
+
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [String](#string)
+- [Images](#images)
+
+## String
+
+- :+1: `:+1:`
+- :-1: `:-1:`
+- :100: `:100:`
+- :1234: `:1234:`
+- :1st_place_medal: `:1st_place_medal:`
+- :2nd_place_medal: `:2nd_place_medal:`
+- :3rd_place_medal: `:3rd_place_medal:`
+- :8ball: `:8ball:`
+- :a: `:a:`
+- :ab: `:ab:`
+- :abacus: `:abacus:`
+- :abc: `:abc:`
+- :abcd: `:abcd:`
+- :accept: `:accept:`
+- :accessibility: `:accessibility:`
+- :accordion: `:accordion:`
+- :adhesive_bandage: `:adhesive_bandage:`
+- :adult: `:adult:`
+- :aerial_tramway: `:aerial_tramway:`
+- :afghanistan: `:afghanistan:`
+- :airplane: `:airplane:`
+- :aland_islands: `:aland_islands:`
+- :alarm_clock: `:alarm_clock:`
+- :albania: `:albania:`
+- :alembic: `:alembic:`
+- :algeria: `:algeria:`
+- :alien: `:alien:`
+- :ambulance: `:ambulance:`
+- :american_samoa: `:american_samoa:`
+- :amphora: `:amphora:`
+- :anatomical_heart: `:anatomical_heart:`
+- :anchor: `:anchor:`
+- :andorra: `:andorra:`
+- :angel: `:angel:`
+- :anger: `:anger:`
+- :angola: `:angola:`
+- :angry: `:angry:`
+- :anguilla: `:anguilla:`
+- :anguished: `:anguished:`
+- :ant: `:ant:`
+- :antarctica: `:antarctica:`
+- :antigua_barbuda: `:antigua_barbuda:`
+- :apple: `:apple:`
+- :aquarius: `:aquarius:`
+- :argentina: `:argentina:`
+- :aries: `:aries:`
+- :armenia: `:armenia:`
+- :arrow_backward: `:arrow_backward:`
+- :arrow_double_down: `:arrow_double_down:`
+- :arrow_double_up: `:arrow_double_up:`
+- :arrow_down: `:arrow_down:`
+- :arrow_down_small: `:arrow_down_small:`
+- :arrow_forward: `:arrow_forward:`
+- :arrow_heading_down: `:arrow_heading_down:`
+- :arrow_heading_up: `:arrow_heading_up:`
+- :arrow_left: `:arrow_left:`
+- :arrow_lower_left: `:arrow_lower_left:`
+- :arrow_lower_right: `:arrow_lower_right:`
+- :arrow_right: `:arrow_right:`
+- :arrow_right_hook: `:arrow_right_hook:`
+- :arrow_up: `:arrow_up:`
+- :arrow_up_down: `:arrow_up_down:`
+- :arrow_up_small: `:arrow_up_small:`
+- :arrow_upper_left: `:arrow_upper_left:`
+- :arrow_upper_right: `:arrow_upper_right:`
+- :arrows_clockwise: `:arrows_clockwise:`
+- :arrows_counterclockwise: `:arrows_counterclockwise:`
+- :art: `:art:`
+- :articulated_lorry: `:articulated_lorry:`
+- :artificial_satellite: `:artificial_satellite:`
+- :artist: `:artist:`
+- :aruba: `:aruba:`
+- :ascension_island: `:ascension_island:`
+- :asterisk: `:asterisk:`
+- :astonished: `:astonished:`
+- :astronaut: `:astronaut:`
+- :athletic_shoe: `:athletic_shoe:`
+- :atm: `:atm:`
+- :atom: `:atom:`
+- :atom_symbol: `:atom_symbol:`
+- :australia: `:australia:`
+- :austria: `:austria:`
+- :auto_rickshaw: `:auto_rickshaw:`
+- :avocado: `:avocado:`
+- :axe: `:axe:`
+- :azerbaijan: `:azerbaijan:`
+- :b: `:b:`
+- :baby: `:baby:`
+- :baby_bottle: `:baby_bottle:`
+- :baby_chick: `:baby_chick:`
+- :baby_symbol: `:baby_symbol:`
+- :back: `:back:`
+- :bacon: `:bacon:`
+- :badger: `:badger:`
+- :badminton: `:badminton:`
+- :bagel: `:bagel:`
+- :baggage_claim: `:baggage_claim:`
+- :baguette_bread: `:baguette_bread:`
+- :bahamas: `:bahamas:`
+- :bahrain: `:bahrain:`
+- :balance_scale: `:balance_scale:`
+- :bald_man: `:bald_man:`
+- :bald_woman: `:bald_woman:`
+- :ballet_shoes: `:ballet_shoes:`
+- :balloon: `:balloon:`
+- :ballot_box: `:ballot_box:`
+- :ballot_box_with_check: `:ballot_box_with_check:`
+- :bamboo: `:bamboo:`
+- :banana: `:banana:`
+- :bangbang: `:bangbang:`
+- :bangladesh: `:bangladesh:`
+- :banjo: `:banjo:`
+- :bank: `:bank:`
+- :bar_chart: `:bar_chart:`
+- :barbados: `:barbados:`
+- :barber: `:barber:`
+- :baseball: `:baseball:`
+- :basecamp: `:basecamp:`
+- :basecampy: `:basecampy:`
+- :basket: `:basket:`
+- :basketball: `:basketball:`
+- :basketball_man: `:basketball_man:`
+- :basketball_woman: `:basketball_woman:`
+- :bat: `:bat:`
+- :bath: `:bath:`
+- :bathtub: `:bathtub:`
+- :battery: `:battery:`
+- :beach_umbrella: `:beach_umbrella:`
+- :beans: `:beans:`
+- :bear: `:bear:`
+- :bearded_person: `:bearded_person:`
+- :beaver: `:beaver:`
+- :bed: `:bed:`
+- :bee: `:bee:`
+- :beer: `:beer:`
+- :beers: `:beers:`
+- :beetle: `:beetle:`
+- :beginner: `:beginner:`
+- :belarus: `:belarus:`
+- :belgium: `:belgium:`
+- :belize: `:belize:`
+- :bell: `:bell:`
+- :bell_pepper: `:bell_pepper:`
+- :bellhop_bell: `:bellhop_bell:`
+- :benin: `:benin:`
+- :bento: `:bento:`
+- :bermuda: `:bermuda:`
+- :beverage_box: `:beverage_box:`
+- :bhutan: `:bhutan:`
+- :bicyclist: `:bicyclist:`
+- :bike: `:bike:`
+- :biking_man: `:biking_man:`
+- :biking_woman: `:biking_woman:`
+- :bikini: `:bikini:`
+- :billed_cap: `:billed_cap:`
+- :biohazard: `:biohazard:`
+- :bird: `:bird:`
+- :birthday: `:birthday:`
+- :bison: `:bison:`
+- :biting_lip: `:biting_lip:`
+- :black_bird: `:black_bird:`
+- :black_cat: `:black_cat:`
+- :black_circle: `:black_circle:`
+- :black_flag: `:black_flag:`
+- :black_heart: `:black_heart:`
+- :black_joker: `:black_joker:`
+- :black_large_square: `:black_large_square:`
+- :black_medium_small_square: `:black_medium_small_square:`
+- :black_medium_square: `:black_medium_square:`
+- :black_nib: `:black_nib:`
+- :black_small_square: `:black_small_square:`
+- :black_square_button: `:black_square_button:`
+- :blond_haired_man: `:blond_haired_man:`
+- :blond_haired_person: `:blond_haired_person:`
+- :blond_haired_woman: `:blond_haired_woman:`
+- :blonde_woman: `:blonde_woman:`
+- :blossom: `:blossom:`
+- :blowfish: `:blowfish:`
+- :blue_book: `:blue_book:`
+- :blue_car: `:blue_car:`
+- :blue_heart: `:blue_heart:`
+- :blue_square: `:blue_square:`
+- :blueberries: `:blueberries:`
+- :blush: `:blush:`
+- :boar: `:boar:`
+- :boat: `:boat:`
+- :bolivia: `:bolivia:`
+- :bomb: `:bomb:`
+- :bone: `:bone:`
+- :book: `:book:`
+- :bookmark: `:bookmark:`
+- :bookmark_tabs: `:bookmark_tabs:`
+- :books: `:books:`
+- :boom: `:boom:`
+- :boomerang: `:boomerang:`
+- :boot: `:boot:`
+- :bosnia_herzegovina: `:bosnia_herzegovina:`
+- :botswana: `:botswana:`
+- :bouncing_ball_man: `:bouncing_ball_man:`
+- :bouncing_ball_person: `:bouncing_ball_person:`
+- :bouncing_ball_woman: `:bouncing_ball_woman:`
+- :bouquet: `:bouquet:`
+- :bouvet_island: `:bouvet_island:`
+- :bow: `:bow:`
+- :bow_and_arrow: `:bow_and_arrow:`
+- :bowing_man: `:bowing_man:`
+- :bowing_woman: `:bowing_woman:`
+- :bowl_with_spoon: `:bowl_with_spoon:`
+- :bowling: `:bowling:`
+- :bowtie: `:bowtie:`
+- :boxing_glove: `:boxing_glove:`
+- :boy: `:boy:`
+- :brain: `:brain:`
+- :brazil: `:brazil:`
+- :bread: `:bread:`
+- :breast_feeding: `:breast_feeding:`
+- :bricks: `:bricks:`
+- :bride_with_veil: `:bride_with_veil:`
+- :bridge_at_night: `:bridge_at_night:`
+- :briefcase: `:briefcase:`
+- :british_indian_ocean_territory: `:british_indian_ocean_territory:`
+- :british_virgin_islands: `:british_virgin_islands:`
+- :broccoli: `:broccoli:`
+- :broken_heart: `:broken_heart:`
+- :broom: `:broom:`
+- :brown_circle: `:brown_circle:`
+- :brown_heart: `:brown_heart:`
+- :brown_square: `:brown_square:`
+- :brunei: `:brunei:`
+- :bubble_tea: `:bubble_tea:`
+- :bubbles: `:bubbles:`
+- :bucket: `:bucket:`
+- :bug: `:bug:`
+- :building_construction: `:building_construction:`
+- :bulb: `:bulb:`
+- :bulgaria: `:bulgaria:`
+- :bullettrain_front: `:bullettrain_front:`
+- :bullettrain_side: `:bullettrain_side:`
+- :burkina_faso: `:burkina_faso:`
+- :burrito: `:burrito:`
+- :burundi: `:burundi:`
+- :bus: `:bus:`
+- :business_suit_levitating: `:business_suit_levitating:`
+- :busstop: `:busstop:`
+- :bust_in_silhouette: `:bust_in_silhouette:`
+- :busts_in_silhouette: `:busts_in_silhouette:`
+- :butter: `:butter:`
+- :butterfly: `:butterfly:`
+- :cactus: `:cactus:`
+- :cake: `:cake:`
+- :calendar: `:calendar:`
+- :call_me_hand: `:call_me_hand:`
+- :calling: `:calling:`
+- :cambodia: `:cambodia:`
+- :camel: `:camel:`
+- :camera: `:camera:`
+- :camera_flash: `:camera_flash:`
+- :cameroon: `:cameroon:`
+- :camping: `:camping:`
+- :canada: `:canada:`
+- :canary_islands: `:canary_islands:`
+- :cancer: `:cancer:`
+- :candle: `:candle:`
+- :candy: `:candy:`
+- :canned_food: `:canned_food:`
+- :canoe: `:canoe:`
+- :cape_verde: `:cape_verde:`
+- :capital_abcd: `:capital_abcd:`
+- :capricorn: `:capricorn:`
+- :car: `:car:`
+- :card_file_box: `:card_file_box:`
+- :card_index: `:card_index:`
+- :card_index_dividers: `:card_index_dividers:`
+- :caribbean_netherlands: `:caribbean_netherlands:`
+- :carousel_horse: `:carousel_horse:`
+- :carpentry_saw: `:carpentry_saw:`
+- :carrot: `:carrot:`
+- :cartwheeling: `:cartwheeling:`
+- :cat: `:cat:`
+- :cat2: `:cat2:`
+- :cayman_islands: `:cayman_islands:`
+- :cd: `:cd:`
+- :central_african_republic: `:central_african_republic:`
+- :ceuta_melilla: `:ceuta_melilla:`
+- :chad: `:chad:`
+- :chains: `:chains:`
+- :chair: `:chair:`
+- :champagne: `:champagne:`
+- :chart: `:chart:`
+- :chart_with_downwards_trend: `:chart_with_downwards_trend:`
+- :chart_with_upwards_trend: `:chart_with_upwards_trend:`
+- :checkered_flag: `:checkered_flag:`
+- :cheese: `:cheese:`
+- :cherries: `:cherries:`
+- :cherry_blossom: `:cherry_blossom:`
+- :chess_pawn: `:chess_pawn:`
+- :chestnut: `:chestnut:`
+- :chicken: `:chicken:`
+- :child: `:child:`
+- :children_crossing: `:children_crossing:`
+- :chile: `:chile:`
+- :chipmunk: `:chipmunk:`
+- :chocolate_bar: `:chocolate_bar:`
+- :chopsticks: `:chopsticks:`
+- :christmas_island: `:christmas_island:`
+- :christmas_tree: `:christmas_tree:`
+- :church: `:church:`
+- :cinema: `:cinema:`
+- :circus_tent: `:circus_tent:`
+- :city_sunrise: `:city_sunrise:`
+- :city_sunset: `:city_sunset:`
+- :cityscape: `:cityscape:`
+- :cl: `:cl:`
+- :clamp: `:clamp:`
+- :clap: `:clap:`
+- :clapper: `:clapper:`
+- :classical_building: `:classical_building:`
+- :climbing: `:climbing:`
+- :climbing_man: `:climbing_man:`
+- :climbing_woman: `:climbing_woman:`
+- :clinking_glasses: `:clinking_glasses:`
+- :clipboard: `:clipboard:`
+- :clipperton_island: `:clipperton_island:`
+- :clock1: `:clock1:`
+- :clock10: `:clock10:`
+- :clock1030: `:clock1030:`
+- :clock11: `:clock11:`
+- :clock1130: `:clock1130:`
+- :clock12: `:clock12:`
+- :clock1230: `:clock1230:`
+- :clock130: `:clock130:`
+- :clock2: `:clock2:`
+- :clock230: `:clock230:`
+- :clock3: `:clock3:`
+- :clock330: `:clock330:`
+- :clock4: `:clock4:`
+- :clock430: `:clock430:`
+- :clock5: `:clock5:`
+- :clock530: `:clock530:`
+- :clock6: `:clock6:`
+- :clock630: `:clock630:`
+- :clock7: `:clock7:`
+- :clock730: `:clock730:`
+- :clock8: `:clock8:`
+- :clock830: `:clock830:`
+- :clock9: `:clock9:`
+- :clock930: `:clock930:`
+- :closed_book: `:closed_book:`
+- :closed_lock_with_key: `:closed_lock_with_key:`
+- :closed_umbrella: `:closed_umbrella:`
+- :cloud: `:cloud:`
+- :cloud_with_lightning: `:cloud_with_lightning:`
+- :cloud_with_lightning_and_rain: `:cloud_with_lightning_and_rain:`
+- :cloud_with_rain: `:cloud_with_rain:`
+- :cloud_with_snow: `:cloud_with_snow:`
+- :clown_face: `:clown_face:`
+- :clubs: `:clubs:`
+- :cn: `:cn:`
+- :coat: `:coat:`
+- :cockroach: `:cockroach:`
+- :cocktail: `:cocktail:`
+- :coconut: `:coconut:`
+- :cocos_islands: `:cocos_islands:`
+- :coffee: `:coffee:`
+- :coffin: `:coffin:`
+- :coin: `:coin:`
+- :cold_face: `:cold_face:`
+- :cold_sweat: `:cold_sweat:`
+- :collision: `:collision:`
+- :colombia: `:colombia:`
+- :comet: `:comet:`
+- :comoros: `:comoros:`
+- :compass: `:compass:`
+- :computer: `:computer:`
+- :computer_mouse: `:computer_mouse:`
+- :confetti_ball: `:confetti_ball:`
+- :confounded: `:confounded:`
+- :confused: `:confused:`
+- :congo_brazzaville: `:congo_brazzaville:`
+- :congo_kinshasa: `:congo_kinshasa:`
+- :congratulations: `:congratulations:`
+- :construction: `:construction:`
+- :construction_worker: `:construction_worker:`
+- :construction_worker_man: `:construction_worker_man:`
+- :construction_worker_woman: `:construction_worker_woman:`
+- :control_knobs: `:control_knobs:`
+- :convenience_store: `:convenience_store:`
+- :cook: `:cook:`
+- :cook_islands: `:cook_islands:`
+- :cookie: `:cookie:`
+- :cool: `:cool:`
+- :cop: `:cop:`
+- :copilot: `:copilot:`
+- :copyright: `:copyright:`
+- :coral: `:coral:`
+- :corn: `:corn:`
+- :costa_rica: `:costa_rica:`
+- :cote_divoire: `:cote_divoire:`
+- :couch_and_lamp: `:couch_and_lamp:`
+- :couple: `:couple:`
+- :couple_with_heart: `:couple_with_heart:`
+- :couple_with_heart_man_man: `:couple_with_heart_man_man:`
+- :couple_with_heart_woman_man: `:couple_with_heart_woman_man:`
+- :couple_with_heart_woman_woman: `:couple_with_heart_woman_woman:`
+- :couplekiss: `:couplekiss:`
+- :couplekiss_man_man: `:couplekiss_man_man:`
+- :couplekiss_man_woman: `:couplekiss_man_woman:`
+- :couplekiss_woman_woman: `:couplekiss_woman_woman:`
+- :cow: `:cow:`
+- :cow2: `:cow2:`
+- :cowboy_hat_face: `:cowboy_hat_face:`
+- :crab: `:crab:`
+- :crayon: `:crayon:`
+- :credit_card: `:credit_card:`
+- :crescent_moon: `:crescent_moon:`
+- :cricket: `:cricket:`
+- :cricket_game: `:cricket_game:`
+- :croatia: `:croatia:`
+- :crocodile: `:crocodile:`
+- :croissant: `:croissant:`
+- :crossed_fingers: `:crossed_fingers:`
+- :crossed_flags: `:crossed_flags:`
+- :crossed_swords: `:crossed_swords:`
+- :crown: `:crown:`
+- :crutch: `:crutch:`
+- :cry: `:cry:`
+- :crying_cat_face: `:crying_cat_face:`
+- :crystal_ball: `:crystal_ball:`
+- :cuba: `:cuba:`
+- :cucumber: `:cucumber:`
+- :cup_with_straw: `:cup_with_straw:`
+- :cupcake: `:cupcake:`
+- :cupid: `:cupid:`
+- :curacao: `:curacao:`
+- :curling_stone: `:curling_stone:`
+- :curly_haired_man: `:curly_haired_man:`
+- :curly_haired_woman: `:curly_haired_woman:`
+- :curly_loop: `:curly_loop:`
+- :currency_exchange: `:currency_exchange:`
+- :curry: `:curry:`
+- :cursing_face: `:cursing_face:`
+- :custard: `:custard:`
+- :customs: `:customs:`
+- :cut_of_meat: `:cut_of_meat:`
+- :cyclone: `:cyclone:`
+- :cyprus: `:cyprus:`
+- :czech_republic: `:czech_republic:`
+- :dagger: `:dagger:`
+- :dancer: `:dancer:`
+- :dancers: `:dancers:`
+- :dancing_men: `:dancing_men:`
+- :dancing_women: `:dancing_women:`
+- :dango: `:dango:`
+- :dark_sunglasses: `:dark_sunglasses:`
+- :dart: `:dart:`
+- :dash: `:dash:`
+- :date: `:date:`
+- :de: `:de:`
+- :deaf_man: `:deaf_man:`
+- :deaf_person: `:deaf_person:`
+- :deaf_woman: `:deaf_woman:`
+- :deciduous_tree: `:deciduous_tree:`
+- :deer: `:deer:`
+- :denmark: `:denmark:`
+- :department_store: `:department_store:`
+- :dependabot: `:dependabot:`
+- :derelict_house: `:derelict_house:`
+- :desert: `:desert:`
+- :desert_island: `:desert_island:`
+- :desktop_computer: `:desktop_computer:`
+- :detective: `:detective:`
+- :diamond_shape_with_a_dot_inside: `:diamond_shape_with_a_dot_inside:`
+- :diamonds: `:diamonds:`
+- :diego_garcia: `:diego_garcia:`
+- :disappointed: `:disappointed:`
+- :disappointed_relieved: `:disappointed_relieved:`
+- :disguised_face: `:disguised_face:`
+- :diving_mask: `:diving_mask:`
+- :diya_lamp: `:diya_lamp:`
+- :dizzy: `:dizzy:`
+- :dizzy_face: `:dizzy_face:`
+- :djibouti: `:djibouti:`
+- :dna: `:dna:`
+- :do_not_litter: `:do_not_litter:`
+- :dodo: `:dodo:`
+- :dog: `:dog:`
+- :dog2: `:dog2:`
+- :dollar: `:dollar:`
+- :dolls: `:dolls:`
+- :dolphin: `:dolphin:`
+- :dominica: `:dominica:`
+- :dominican_republic: `:dominican_republic:`
+- :donkey: `:donkey:`
+- :door: `:door:`
+- :dotted_line_face: `:dotted_line_face:`
+- :doughnut: `:doughnut:`
+- :dove: `:dove:`
+- :dragon: `:dragon:`
+- :dragon_face: `:dragon_face:`
+- :dress: `:dress:`
+- :dromedary_camel: `:dromedary_camel:`
+- :drooling_face: `:drooling_face:`
+- :drop_of_blood: `:drop_of_blood:`
+- :droplet: `:droplet:`
+- :drum: `:drum:`
+- :duck: `:duck:`
+- :dumpling: `:dumpling:`
+- :dvd: `:dvd:`
+- :e-mail: `:e-mail:`
+- :eagle: `:eagle:`
+- :ear: `:ear:`
+- :ear_of_rice: `:ear_of_rice:`
+- :ear_with_hearing_aid: `:ear_with_hearing_aid:`
+- :earth_africa: `:earth_africa:`
+- :earth_americas: `:earth_americas:`
+- :earth_asia: `:earth_asia:`
+- :ecuador: `:ecuador:`
+- :egg: `:egg:`
+- :eggplant: `:eggplant:`
+- :egypt: `:egypt:`
+- :eight: `:eight:`
+- :eight_pointed_black_star: `:eight_pointed_black_star:`
+- :eight_spoked_asterisk: `:eight_spoked_asterisk:`
+- :eject_button: `:eject_button:`
+- :el_salvador: `:el_salvador:`
+- :electric_plug: `:electric_plug:`
+- :electron: `:electron:`
+- :elephant: `:elephant:`
+- :elevator: `:elevator:`
+- :elf: `:elf:`
+- :elf_man: `:elf_man:`
+- :elf_woman: `:elf_woman:`
+- :email: `:email:`
+- :empty_nest: `:empty_nest:`
+- :end: `:end:`
+- :england: `:england:`
+- :envelope: `:envelope:`
+- :envelope_with_arrow: `:envelope_with_arrow:`
+- :equatorial_guinea: `:equatorial_guinea:`
+- :eritrea: `:eritrea:`
+- :es: `:es:`
+- :estonia: `:estonia:`
+- :ethiopia: `:ethiopia:`
+- :eu: `:eu:`
+- :euro: `:euro:`
+- :european_castle: `:european_castle:`
+- :european_post_office: `:european_post_office:`
+- :european_union: `:european_union:`
+- :evergreen_tree: `:evergreen_tree:`
+- :exclamation: `:exclamation:`
+- :exploding_head: `:exploding_head:`
+- :expressionless: `:expressionless:`
+- :eye: `:eye:`
+- :eye_speech_bubble: `:eye_speech_bubble:`
+- :eyeglasses: `:eyeglasses:`
+- :eyes: `:eyes:`
+- :face_exhaling: `:face_exhaling:`
+- :face_holding_back_tears: `:face_holding_back_tears:`
+- :face_in_clouds: `:face_in_clouds:`
+- :face_with_diagonal_mouth: `:face_with_diagonal_mouth:`
+- :face_with_head_bandage: `:face_with_head_bandage:`
+- :face_with_open_eyes_and_hand_over_mouth: `:face_with_open_eyes_and_hand_over_mouth:`
+- :face_with_peeking_eye: `:face_with_peeking_eye:`
+- :face_with_spiral_eyes: `:face_with_spiral_eyes:`
+- :face_with_thermometer: `:face_with_thermometer:`
+- :facepalm: `:facepalm:`
+- :facepunch: `:facepunch:`
+- :factory: `:factory:`
+- :factory_worker: `:factory_worker:`
+- :fairy: `:fairy:`
+- :fairy_man: `:fairy_man:`
+- :fairy_woman: `:fairy_woman:`
+- :falafel: `:falafel:`
+- :falkland_islands: `:falkland_islands:`
+- :fallen_leaf: `:fallen_leaf:`
+- :family: `:family:`
+- :family_man_boy: `:family_man_boy:`
+- :family_man_boy_boy: `:family_man_boy_boy:`
+- :family_man_girl: `:family_man_girl:`
+- :family_man_girl_boy: `:family_man_girl_boy:`
+- :family_man_girl_girl: `:family_man_girl_girl:`
+- :family_man_man_boy: `:family_man_man_boy:`
+- :family_man_man_boy_boy: `:family_man_man_boy_boy:`
+- :family_man_man_girl: `:family_man_man_girl:`
+- :family_man_man_girl_boy: `:family_man_man_girl_boy:`
+- :family_man_man_girl_girl: `:family_man_man_girl_girl:`
+- :family_man_woman_boy: `:family_man_woman_boy:`
+- :family_man_woman_boy_boy: `:family_man_woman_boy_boy:`
+- :family_man_woman_girl: `:family_man_woman_girl:`
+- :family_man_woman_girl_boy: `:family_man_woman_girl_boy:`
+- :family_man_woman_girl_girl: `:family_man_woman_girl_girl:`
+- :family_woman_boy: `:family_woman_boy:`
+- :family_woman_boy_boy: `:family_woman_boy_boy:`
+- :family_woman_girl: `:family_woman_girl:`
+- :family_woman_girl_boy: `:family_woman_girl_boy:`
+- :family_woman_girl_girl: `:family_woman_girl_girl:`
+- :family_woman_woman_boy: `:family_woman_woman_boy:`
+- :family_woman_woman_boy_boy: `:family_woman_woman_boy_boy:`
+- :family_woman_woman_girl: `:family_woman_woman_girl:`
+- :family_woman_woman_girl_boy: `:family_woman_woman_girl_boy:`
+- :family_woman_woman_girl_girl: `:family_woman_woman_girl_girl:`
+- :farmer: `:farmer:`
+- :faroe_islands: `:faroe_islands:`
+- :fast_forward: `:fast_forward:`
+- :fax: `:fax:`
+- :fearful: `:fearful:`
+- :feather: `:feather:`
+- :feelsgood: `:feelsgood:`
+- :feet: `:feet:`
+- :female_detective: `:female_detective:`
+- :female_sign: `:female_sign:`
+- :ferris_wheel: `:ferris_wheel:`
+- :ferry: `:ferry:`
+- :field_hockey: `:field_hockey:`
+- :fiji: `:fiji:`
+- :file_cabinet: `:file_cabinet:`
+- :file_folder: `:file_folder:`
+- :film_projector: `:film_projector:`
+- :film_strip: `:film_strip:`
+- :finland: `:finland:`
+- :finnadie: `:finnadie:`
+- :fire: `:fire:`
+- :fire_engine: `:fire_engine:`
+- :fire_extinguisher: `:fire_extinguisher:`
+- :firecracker: `:firecracker:`
+- :firefighter: `:firefighter:`
+- :fireworks: `:fireworks:`
+- :first_quarter_moon: `:first_quarter_moon:`
+- :first_quarter_moon_with_face: `:first_quarter_moon_with_face:`
+- :fish: `:fish:`
+- :fish_cake: `:fish_cake:`
+- :fishing_pole_and_fish: `:fishing_pole_and_fish:`
+- :fishsticks: `:fishsticks:`
+- :fist: `:fist:`
+- :fist_left: `:fist_left:`
+- :fist_oncoming: `:fist_oncoming:`
+- :fist_raised: `:fist_raised:`
+- :fist_right: `:fist_right:`
+- :five: `:five:`
+- :flags: `:flags:`
+- :flamingo: `:flamingo:`
+- :flashlight: `:flashlight:`
+- :flat_shoe: `:flat_shoe:`
+- :flatbread: `:flatbread:`
+- :fleur_de_lis: `:fleur_de_lis:`
+- :flight_arrival: `:flight_arrival:`
+- :flight_departure: `:flight_departure:`
+- :flipper: `:flipper:`
+- :floppy_disk: `:floppy_disk:`
+- :flower_playing_cards: `:flower_playing_cards:`
+- :flushed: `:flushed:`
+- :flute: `:flute:`
+- :fly: `:fly:`
+- :flying_disc: `:flying_disc:`
+- :flying_saucer: `:flying_saucer:`
+- :fog: `:fog:`
+- :foggy: `:foggy:`
+- :folding_hand_fan: `:folding_hand_fan:`
+- :fondue: `:fondue:`
+- :foot: `:foot:`
+- :football: `:football:`
+- :footprints: `:footprints:`
+- :fork_and_knife: `:fork_and_knife:`
+- :fortune_cookie: `:fortune_cookie:`
+- :fountain: `:fountain:`
+- :fountain_pen: `:fountain_pen:`
+- :four: `:four:`
+- :four_leaf_clover: `:four_leaf_clover:`
+- :fox_face: `:fox_face:`
+- :fr: `:fr:`
+- :framed_picture: `:framed_picture:`
+- :free: `:free:`
+- :french_guiana: `:french_guiana:`
+- :french_polynesia: `:french_polynesia:`
+- :french_southern_territories: `:french_southern_territories:`
+- :fried_egg: `:fried_egg:`
+- :fried_shrimp: `:fried_shrimp:`
+- :fries: `:fries:`
+- :frog: `:frog:`
+- :frowning: `:frowning:`
+- :frowning_face: `:frowning_face:`
+- :frowning_man: `:frowning_man:`
+- :frowning_person: `:frowning_person:`
+- :frowning_woman: `:frowning_woman:`
+- :fu: `:fu:`
+- :fuelpump: `:fuelpump:`
+- :full_moon: `:full_moon:`
+- :full_moon_with_face: `:full_moon_with_face:`
+- :funeral_urn: `:funeral_urn:`
+- :gabon: `:gabon:`
+- :gambia: `:gambia:`
+- :game_die: `:game_die:`
+- :garlic: `:garlic:`
+- :gb: `:gb:`
+- :gear: `:gear:`
+- :gem: `:gem:`
+- :gemini: `:gemini:`
+- :genie: `:genie:`
+- :genie_man: `:genie_man:`
+- :genie_woman: `:genie_woman:`
+- :georgia: `:georgia:`
+- :ghana: `:ghana:`
+- :ghost: `:ghost:`
+- :gibraltar: `:gibraltar:`
+- :gift: `:gift:`
+- :gift_heart: `:gift_heart:`
+- :ginger_root: `:ginger_root:`
+- :giraffe: `:giraffe:`
+- :girl: `:girl:`
+- :globe_with_meridians: `:globe_with_meridians:`
+- :gloves: `:gloves:`
+- :goal_net: `:goal_net:`
+- :goat: `:goat:`
+- :goberserk: `:goberserk:`
+- :godmode: `:godmode:`
+- :goggles: `:goggles:`
+- :golf: `:golf:`
+- :golfing: `:golfing:`
+- :golfing_man: `:golfing_man:`
+- :golfing_woman: `:golfing_woman:`
+- :goose: `:goose:`
+- :gorilla: `:gorilla:`
+- :grapes: `:grapes:`
+- :greece: `:greece:`
+- :green_apple: `:green_apple:`
+- :green_book: `:green_book:`
+- :green_circle: `:green_circle:`
+- :green_heart: `:green_heart:`
+- :green_salad: `:green_salad:`
+- :green_square: `:green_square:`
+- :greenland: `:greenland:`
+- :grenada: `:grenada:`
+- :grey_exclamation: `:grey_exclamation:`
+- :grey_heart: `:grey_heart:`
+- :grey_question: `:grey_question:`
+- :grimacing: `:grimacing:`
+- :grin: `:grin:`
+- :grinning: `:grinning:`
+- :guadeloupe: `:guadeloupe:`
+- :guam: `:guam:`
+- :guard: `:guard:`
+- :guardsman: `:guardsman:`
+- :guardswoman: `:guardswoman:`
+- :guatemala: `:guatemala:`
+- :guernsey: `:guernsey:`
+- :guide_dog: `:guide_dog:`
+- :guinea: `:guinea:`
+- :guinea_bissau: `:guinea_bissau:`
+- :guitar: `:guitar:`
+- :gun: `:gun:`
+- :guyana: `:guyana:`
+- :hair_pick: `:hair_pick:`
+- :haircut: `:haircut:`
+- :haircut_man: `:haircut_man:`
+- :haircut_woman: `:haircut_woman:`
+- :haiti: `:haiti:`
+- :hamburger: `:hamburger:`
+- :hammer: `:hammer:`
+- :hammer_and_pick: `:hammer_and_pick:`
+- :hammer_and_wrench: `:hammer_and_wrench:`
+- :hamsa: `:hamsa:`
+- :hamster: `:hamster:`
+- :hand: `:hand:`
+- :hand_over_mouth: `:hand_over_mouth:`
+- :hand_with_index_finger_and_thumb_crossed: `:hand_with_index_finger_and_thumb_crossed:`
+- :handbag: `:handbag:`
+- :handball_person: `:handball_person:`
+- :handshake: `:handshake:`
+- :hankey: `:hankey:`
+- :hash: `:hash:`
+- :hatched_chick: `:hatched_chick:`
+- :hatching_chick: `:hatching_chick:`
+- :headphones: `:headphones:`
+- :headstone: `:headstone:`
+- :health_worker: `:health_worker:`
+- :hear_no_evil: `:hear_no_evil:`
+- :heard_mcdonald_islands: `:heard_mcdonald_islands:`
+- :heart: `:heart:`
+- :heart_decoration: `:heart_decoration:`
+- :heart_eyes: `:heart_eyes:`
+- :heart_eyes_cat: `:heart_eyes_cat:`
+- :heart_hands: `:heart_hands:`
+- :heart_on_fire: `:heart_on_fire:`
+- :heartbeat: `:heartbeat:`
+- :heartpulse: `:heartpulse:`
+- :hearts: `:hearts:`
+- :heavy_check_mark: `:heavy_check_mark:`
+- :heavy_division_sign: `:heavy_division_sign:`
+- :heavy_dollar_sign: `:heavy_dollar_sign:`
+- :heavy_equals_sign: `:heavy_equals_sign:`
+- :heavy_exclamation_mark: `:heavy_exclamation_mark:`
+- :heavy_heart_exclamation: `:heavy_heart_exclamation:`
+- :heavy_minus_sign: `:heavy_minus_sign:`
+- :heavy_multiplication_x: `:heavy_multiplication_x:`
+- :heavy_plus_sign: `:heavy_plus_sign:`
+- :hedgehog: `:hedgehog:`
+- :helicopter: `:helicopter:`
+- :herb: `:herb:`
+- :hibiscus: `:hibiscus:`
+- :high_brightness: `:high_brightness:`
+- :high_heel: `:high_heel:`
+- :hiking_boot: `:hiking_boot:`
+- :hindu_temple: `:hindu_temple:`
+- :hippopotamus: `:hippopotamus:`
+- :hocho: `:hocho:`
+- :hole: `:hole:`
+- :honduras: `:honduras:`
+- :honey_pot: `:honey_pot:`
+- :honeybee: `:honeybee:`
+- :hong_kong: `:hong_kong:`
+- :hook: `:hook:`
+- :horse: `:horse:`
+- :horse_racing: `:horse_racing:`
+- :hospital: `:hospital:`
+- :hot_face: `:hot_face:`
+- :hot_pepper: `:hot_pepper:`
+- :hotdog: `:hotdog:`
+- :hotel: `:hotel:`
+- :hotsprings: `:hotsprings:`
+- :hourglass: `:hourglass:`
+- :hourglass_flowing_sand: `:hourglass_flowing_sand:`
+- :house: `:house:`
+- :house_with_garden: `:house_with_garden:`
+- :houses: `:houses:`
+- :hugs: `:hugs:`
+- :hungary: `:hungary:`
+- :hurtrealbad: `:hurtrealbad:`
+- :hushed: `:hushed:`
+- :hut: `:hut:`
+- :hyacinth: `:hyacinth:`
+- :ice_cream: `:ice_cream:`
+- :ice_cube: `:ice_cube:`
+- :ice_hockey: `:ice_hockey:`
+- :ice_skate: `:ice_skate:`
+- :icecream: `:icecream:`
+- :iceland: `:iceland:`
+- :id: `:id:`
+- :identification_card: `:identification_card:`
+- :ideograph_advantage: `:ideograph_advantage:`
+- :imp: `:imp:`
+- :inbox_tray: `:inbox_tray:`
+- :incoming_envelope: `:incoming_envelope:`
+- :index_pointing_at_the_viewer: `:index_pointing_at_the_viewer:`
+- :india: `:india:`
+- :indonesia: `:indonesia:`
+- :infinity: `:infinity:`
+- :information_desk_person: `:information_desk_person:`
+- :information_source: `:information_source:`
+- :innocent: `:innocent:`
+- :interrobang: `:interrobang:`
+- :iphone: `:iphone:`
+- :iran: `:iran:`
+- :iraq: `:iraq:`
+- :ireland: `:ireland:`
+- :isle_of_man: `:isle_of_man:`
+- :israel: `:israel:`
+- :it: `:it:`
+- :izakaya_lantern: `:izakaya_lantern:`
+- :jack_o_lantern: `:jack_o_lantern:`
+- :jamaica: `:jamaica:`
+- :japan: `:japan:`
+- :japanese_castle: `:japanese_castle:`
+- :japanese_goblin: `:japanese_goblin:`
+- :japanese_ogre: `:japanese_ogre:`
+- :jar: `:jar:`
+- :jeans: `:jeans:`
+- :jellyfish: `:jellyfish:`
+- :jersey: `:jersey:`
+- :jigsaw: `:jigsaw:`
+- :jordan: `:jordan:`
+- :joy: `:joy:`
+- :joy_cat: `:joy_cat:`
+- :joystick: `:joystick:`
+- :jp: `:jp:`
+- :judge: `:judge:`
+- :juggling_person: `:juggling_person:`
+- :kaaba: `:kaaba:`
+- :kangaroo: `:kangaroo:`
+- :kazakhstan: `:kazakhstan:`
+- :kenya: `:kenya:`
+- :key: `:key:`
+- :keyboard: `:keyboard:`
+- :keycap_ten: `:keycap_ten:`
+- :khanda: `:khanda:`
+- :kick_scooter: `:kick_scooter:`
+- :kimono: `:kimono:`
+- :kiribati: `:kiribati:`
+- :kiss: `:kiss:`
+- :kissing: `:kissing:`
+- :kissing_cat: `:kissing_cat:`
+- :kissing_closed_eyes: `:kissing_closed_eyes:`
+- :kissing_heart: `:kissing_heart:`
+- :kissing_smiling_eyes: `:kissing_smiling_eyes:`
+- :kite: `:kite:`
+- :kiwi_fruit: `:kiwi_fruit:`
+- :kneeling_man: `:kneeling_man:`
+- :kneeling_person: `:kneeling_person:`
+- :kneeling_woman: `:kneeling_woman:`
+- :knife: `:knife:`
+- :knot: `:knot:`
+- :koala: `:koala:`
+- :koko: `:koko:`
+- :kosovo: `:kosovo:`
+- :kr: `:kr:`
+- :kuwait: `:kuwait:`
+- :kyrgyzstan: `:kyrgyzstan:`
+- :lab_coat: `:lab_coat:`
+- :label: `:label:`
+- :lacrosse: `:lacrosse:`
+- :ladder: `:ladder:`
+- :lady_beetle: `:lady_beetle:`
+- :lantern: `:lantern:`
+- :laos: `:laos:`
+- :large_blue_circle: `:large_blue_circle:`
+- :large_blue_diamond: `:large_blue_diamond:`
+- :large_orange_diamond: `:large_orange_diamond:`
+- :last_quarter_moon: `:last_quarter_moon:`
+- :last_quarter_moon_with_face: `:last_quarter_moon_with_face:`
+- :latin_cross: `:latin_cross:`
+- :latvia: `:latvia:`
+- :laughing: `:laughing:`
+- :leafy_green: `:leafy_green:`
+- :leaves: `:leaves:`
+- :lebanon: `:lebanon:`
+- :ledger: `:ledger:`
+- :left_luggage: `:left_luggage:`
+- :left_right_arrow: `:left_right_arrow:`
+- :left_speech_bubble: `:left_speech_bubble:`
+- :leftwards_arrow_with_hook: `:leftwards_arrow_with_hook:`
+- :leftwards_hand: `:leftwards_hand:`
+- :leftwards_pushing_hand: `:leftwards_pushing_hand:`
+- :leg: `:leg:`
+- :lemon: `:lemon:`
+- :leo: `:leo:`
+- :leopard: `:leopard:`
+- :lesotho: `:lesotho:`
+- :level_slider: `:level_slider:`
+- :liberia: `:liberia:`
+- :libra: `:libra:`
+- :libya: `:libya:`
+- :liechtenstein: `:liechtenstein:`
+- :light_blue_heart: `:light_blue_heart:`
+- :light_rail: `:light_rail:`
+- :link: `:link:`
+- :lion: `:lion:`
+- :lips: `:lips:`
+- :lipstick: `:lipstick:`
+- :lithuania: `:lithuania:`
+- :lizard: `:lizard:`
+- :llama: `:llama:`
+- :lobster: `:lobster:`
+- :lock: `:lock:`
+- :lock_with_ink_pen: `:lock_with_ink_pen:`
+- :lollipop: `:lollipop:`
+- :long_drum: `:long_drum:`
+- :loop: `:loop:`
+- :lotion_bottle: `:lotion_bottle:`
+- :lotus: `:lotus:`
+- :lotus_position: `:lotus_position:`
+- :lotus_position_man: `:lotus_position_man:`
+- :lotus_position_woman: `:lotus_position_woman:`
+- :loud_sound: `:loud_sound:`
+- :loudspeaker: `:loudspeaker:`
+- :love_hotel: `:love_hotel:`
+- :love_letter: `:love_letter:`
+- :love_you_gesture: `:love_you_gesture:`
+- :low_battery: `:low_battery:`
+- :low_brightness: `:low_brightness:`
+- :luggage: `:luggage:`
+- :lungs: `:lungs:`
+- :luxembourg: `:luxembourg:`
+- :lying_face: `:lying_face:`
+- :m: `:m:`
+- :macau: `:macau:`
+- :macedonia: `:macedonia:`
+- :madagascar: `:madagascar:`
+- :mag: `:mag:`
+- :mag_right: `:mag_right:`
+- :mage: `:mage:`
+- :mage_man: `:mage_man:`
+- :mage_woman: `:mage_woman:`
+- :magic_wand: `:magic_wand:`
+- :magnet: `:magnet:`
+- :mahjong: `:mahjong:`
+- :mailbox: `:mailbox:`
+- :mailbox_closed: `:mailbox_closed:`
+- :mailbox_with_mail: `:mailbox_with_mail:`
+- :mailbox_with_no_mail: `:mailbox_with_no_mail:`
+- :malawi: `:malawi:`
+- :malaysia: `:malaysia:`
+- :maldives: `:maldives:`
+- :male_detective: `:male_detective:`
+- :male_sign: `:male_sign:`
+- :mali: `:mali:`
+- :malta: `:malta:`
+- :mammoth: `:mammoth:`
+- :man: `:man:`
+- :man_artist: `:man_artist:`
+- :man_astronaut: `:man_astronaut:`
+- :man_beard: `:man_beard:`
+- :man_cartwheeling: `:man_cartwheeling:`
+- :man_cook: `:man_cook:`
+- :man_dancing: `:man_dancing:`
+- :man_facepalming: `:man_facepalming:`
+- :man_factory_worker: `:man_factory_worker:`
+- :man_farmer: `:man_farmer:`
+- :man_feeding_baby: `:man_feeding_baby:`
+- :man_firefighter: `:man_firefighter:`
+- :man_health_worker: `:man_health_worker:`
+- :man_in_manual_wheelchair: `:man_in_manual_wheelchair:`
+- :man_in_motorized_wheelchair: `:man_in_motorized_wheelchair:`
+- :man_in_tuxedo: `:man_in_tuxedo:`
+- :man_judge: `:man_judge:`
+- :man_juggling: `:man_juggling:`
+- :man_mechanic: `:man_mechanic:`
+- :man_office_worker: `:man_office_worker:`
+- :man_pilot: `:man_pilot:`
+- :man_playing_handball: `:man_playing_handball:`
+- :man_playing_water_polo: `:man_playing_water_polo:`
+- :man_scientist: `:man_scientist:`
+- :man_shrugging: `:man_shrugging:`
+- :man_singer: `:man_singer:`
+- :man_student: `:man_student:`
+- :man_teacher: `:man_teacher:`
+- :man_technologist: `:man_technologist:`
+- :man_with_gua_pi_mao: `:man_with_gua_pi_mao:`
+- :man_with_probing_cane: `:man_with_probing_cane:`
+- :man_with_turban: `:man_with_turban:`
+- :man_with_veil: `:man_with_veil:`
+- :mandarin: `:mandarin:`
+- :mango: `:mango:`
+- :mans_shoe: `:mans_shoe:`
+- :mantelpiece_clock: `:mantelpiece_clock:`
+- :manual_wheelchair: `:manual_wheelchair:`
+- :maple_leaf: `:maple_leaf:`
+- :maracas: `:maracas:`
+- :marshall_islands: `:marshall_islands:`
+- :martial_arts_uniform: `:martial_arts_uniform:`
+- :martinique: `:martinique:`
+- :mask: `:mask:`
+- :massage: `:massage:`
+- :massage_man: `:massage_man:`
+- :massage_woman: `:massage_woman:`
+- :mate: `:mate:`
+- :mauritania: `:mauritania:`
+- :mauritius: `:mauritius:`
+- :mayotte: `:mayotte:`
+- :meat_on_bone: `:meat_on_bone:`
+- :mechanic: `:mechanic:`
+- :mechanical_arm: `:mechanical_arm:`
+- :mechanical_leg: `:mechanical_leg:`
+- :medal_military: `:medal_military:`
+- :medal_sports: `:medal_sports:`
+- :medical_symbol: `:medical_symbol:`
+- :mega: `:mega:`
+- :melon: `:melon:`
+- :melting_face: `:melting_face:`
+- :memo: `:memo:`
+- :men_wrestling: `:men_wrestling:`
+- :mending_heart: `:mending_heart:`
+- :menorah: `:menorah:`
+- :mens: `:mens:`
+- :mermaid: `:mermaid:`
+- :merman: `:merman:`
+- :merperson: `:merperson:`
+- :metal: `:metal:`
+- :metro: `:metro:`
+- :mexico: `:mexico:`
+- :microbe: `:microbe:`
+- :micronesia: `:micronesia:`
+- :microphone: `:microphone:`
+- :microscope: `:microscope:`
+- :middle_finger: `:middle_finger:`
+- :military_helmet: `:military_helmet:`
+- :milk_glass: `:milk_glass:`
+- :milky_way: `:milky_way:`
+- :minibus: `:minibus:`
+- :minidisc: `:minidisc:`
+- :mirror: `:mirror:`
+- :mirror_ball: `:mirror_ball:`
+- :mobile_phone_off: `:mobile_phone_off:`
+- :moldova: `:moldova:`
+- :monaco: `:monaco:`
+- :money_mouth_face: `:money_mouth_face:`
+- :money_with_wings: `:money_with_wings:`
+- :moneybag: `:moneybag:`
+- :mongolia: `:mongolia:`
+- :monkey: `:monkey:`
+- :monkey_face: `:monkey_face:`
+- :monocle_face: `:monocle_face:`
+- :monorail: `:monorail:`
+- :montenegro: `:montenegro:`
+- :montserrat: `:montserrat:`
+- :moon: `:moon:`
+- :moon_cake: `:moon_cake:`
+- :moose: `:moose:`
+- :morocco: `:morocco:`
+- :mortar_board: `:mortar_board:`
+- :mosque: `:mosque:`
+- :mosquito: `:mosquito:`
+- :motor_boat: `:motor_boat:`
+- :motor_scooter: `:motor_scooter:`
+- :motorcycle: `:motorcycle:`
+- :motorized_wheelchair: `:motorized_wheelchair:`
+- :motorway: `:motorway:`
+- :mount_fuji: `:mount_fuji:`
+- :mountain: `:mountain:`
+- :mountain_bicyclist: `:mountain_bicyclist:`
+- :mountain_biking_man: `:mountain_biking_man:`
+- :mountain_biking_woman: `:mountain_biking_woman:`
+- :mountain_cableway: `:mountain_cableway:`
+- :mountain_railway: `:mountain_railway:`
+- :mountain_snow: `:mountain_snow:`
+- :mouse: `:mouse:`
+- :mouse2: `:mouse2:`
+- :mouse_trap: `:mouse_trap:`
+- :movie_camera: `:movie_camera:`
+- :moyai: `:moyai:`
+- :mozambique: `:mozambique:`
+- :mrs_claus: `:mrs_claus:`
+- :muscle: `:muscle:`
+- :mushroom: `:mushroom:`
+- :musical_keyboard: `:musical_keyboard:`
+- :musical_note: `:musical_note:`
+- :musical_score: `:musical_score:`
+- :mute: `:mute:`
+- :mx_claus: `:mx_claus:`
+- :myanmar: `:myanmar:`
+- :nail_care: `:nail_care:`
+- :name_badge: `:name_badge:`
+- :namibia: `:namibia:`
+- :national_park: `:national_park:`
+- :nauru: `:nauru:`
+- :nauseated_face: `:nauseated_face:`
+- :nazar_amulet: `:nazar_amulet:`
+- :neckbeard: `:neckbeard:`
+- :necktie: `:necktie:`
+- :negative_squared_cross_mark: `:negative_squared_cross_mark:`
+- :nepal: `:nepal:`
+- :nerd_face: `:nerd_face:`
+- :nest_with_eggs: `:nest_with_eggs:`
+- :nesting_dolls: `:nesting_dolls:`
+- :netherlands: `:netherlands:`
+- :neutral_face: `:neutral_face:`
+- :new: `:new:`
+- :new_caledonia: `:new_caledonia:`
+- :new_moon: `:new_moon:`
+- :new_moon_with_face: `:new_moon_with_face:`
+- :new_zealand: `:new_zealand:`
+- :newspaper: `:newspaper:`
+- :newspaper_roll: `:newspaper_roll:`
+- :next_track_button: `:next_track_button:`
+- :ng: `:ng:`
+- :ng_man: `:ng_man:`
+- :ng_woman: `:ng_woman:`
+- :nicaragua: `:nicaragua:`
+- :niger: `:niger:`
+- :nigeria: `:nigeria:`
+- :night_with_stars: `:night_with_stars:`
+- :nine: `:nine:`
+- :ninja: `:ninja:`
+- :niue: `:niue:`
+- :no_bell: `:no_bell:`
+- :no_bicycles: `:no_bicycles:`
+- :no_entry: `:no_entry:`
+- :no_entry_sign: `:no_entry_sign:`
+- :no_good: `:no_good:`
+- :no_good_man: `:no_good_man:`
+- :no_good_woman: `:no_good_woman:`
+- :no_mobile_phones: `:no_mobile_phones:`
+- :no_mouth: `:no_mouth:`
+- :no_pedestrians: `:no_pedestrians:`
+- :no_smoking: `:no_smoking:`
+- :non-potable_water: `:non-potable_water:`
+- :norfolk_island: `:norfolk_island:`
+- :north_korea: `:north_korea:`
+- :northern_mariana_islands: `:northern_mariana_islands:`
+- :norway: `:norway:`
+- :nose: `:nose:`
+- :notebook: `:notebook:`
+- :notebook_with_decorative_cover: `:notebook_with_decorative_cover:`
+- :notes: `:notes:`
+- :nut_and_bolt: `:nut_and_bolt:`
+- :o: `:o:`
+- :o2: `:o2:`
+- :ocean: `:ocean:`
+- :octocat: `:octocat:`
+- :octopus: `:octopus:`
+- :oden: `:oden:`
+- :office: `:office:`
+- :office_worker: `:office_worker:`
+- :oil_drum: `:oil_drum:`
+- :ok: `:ok:`
+- :ok_hand: `:ok_hand:`
+- :ok_man: `:ok_man:`
+- :ok_person: `:ok_person:`
+- :ok_woman: `:ok_woman:`
+- :old_key: `:old_key:`
+- :older_adult: `:older_adult:`
+- :older_man: `:older_man:`
+- :older_woman: `:older_woman:`
+- :olive: `:olive:`
+- :om: `:om:`
+- :oman: `:oman:`
+- :on: `:on:`
+- :oncoming_automobile: `:oncoming_automobile:`
+- :oncoming_bus: `:oncoming_bus:`
+- :oncoming_police_car: `:oncoming_police_car:`
+- :oncoming_taxi: `:oncoming_taxi:`
+- :one: `:one:`
+- :one_piece_swimsuit: `:one_piece_swimsuit:`
+- :onion: `:onion:`
+- :open_book: `:open_book:`
+- :open_file_folder: `:open_file_folder:`
+- :open_hands: `:open_hands:`
+- :open_mouth: `:open_mouth:`
+- :open_umbrella: `:open_umbrella:`
+- :ophiuchus: `:ophiuchus:`
+- :orange: `:orange:`
+- :orange_book: `:orange_book:`
+- :orange_circle: `:orange_circle:`
+- :orange_heart: `:orange_heart:`
+- :orange_square: `:orange_square:`
+- :orangutan: `:orangutan:`
+- :orthodox_cross: `:orthodox_cross:`
+- :otter: `:otter:`
+- :outbox_tray: `:outbox_tray:`
+- :owl: `:owl:`
+- :ox: `:ox:`
+- :oyster: `:oyster:`
+- :package: `:package:`
+- :page_facing_up: `:page_facing_up:`
+- :page_with_curl: `:page_with_curl:`
+- :pager: `:pager:`
+- :paintbrush: `:paintbrush:`
+- :pakistan: `:pakistan:`
+- :palau: `:palau:`
+- :palestinian_territories: `:palestinian_territories:`
+- :palm_down_hand: `:palm_down_hand:`
+- :palm_tree: `:palm_tree:`
+- :palm_up_hand: `:palm_up_hand:`
+- :palms_up_together: `:palms_up_together:`
+- :panama: `:panama:`
+- :pancakes: `:pancakes:`
+- :panda_face: `:panda_face:`
+- :paperclip: `:paperclip:`
+- :paperclips: `:paperclips:`
+- :papua_new_guinea: `:papua_new_guinea:`
+- :parachute: `:parachute:`
+- :paraguay: `:paraguay:`
+- :parasol_on_ground: `:parasol_on_ground:`
+- :parking: `:parking:`
+- :parrot: `:parrot:`
+- :part_alternation_mark: `:part_alternation_mark:`
+- :partly_sunny: `:partly_sunny:`
+- :partying_face: `:partying_face:`
+- :passenger_ship: `:passenger_ship:`
+- :passport_control: `:passport_control:`
+- :pause_button: `:pause_button:`
+- :paw_prints: `:paw_prints:`
+- :pea_pod: `:pea_pod:`
+- :peace_symbol: `:peace_symbol:`
+- :peach: `:peach:`
+- :peacock: `:peacock:`
+- :peanuts: `:peanuts:`
+- :pear: `:pear:`
+- :pen: `:pen:`
+- :pencil: `:pencil:`
+- :pencil2: `:pencil2:`
+- :penguin: `:penguin:`
+- :pensive: `:pensive:`
+- :people_holding_hands: `:people_holding_hands:`
+- :people_hugging: `:people_hugging:`
+- :performing_arts: `:performing_arts:`
+- :persevere: `:persevere:`
+- :person_bald: `:person_bald:`
+- :person_curly_hair: `:person_curly_hair:`
+- :person_feeding_baby: `:person_feeding_baby:`
+- :person_fencing: `:person_fencing:`
+- :person_in_manual_wheelchair: `:person_in_manual_wheelchair:`
+- :person_in_motorized_wheelchair: `:person_in_motorized_wheelchair:`
+- :person_in_tuxedo: `:person_in_tuxedo:`
+- :person_red_hair: `:person_red_hair:`
+- :person_white_hair: `:person_white_hair:`
+- :person_with_crown: `:person_with_crown:`
+- :person_with_probing_cane: `:person_with_probing_cane:`
+- :person_with_turban: `:person_with_turban:`
+- :person_with_veil: `:person_with_veil:`
+- :peru: `:peru:`
+- :petri_dish: `:petri_dish:`
+- :philippines: `:philippines:`
+- :phone: `:phone:`
+- :pick: `:pick:`
+- :pickup_truck: `:pickup_truck:`
+- :pie: `:pie:`
+- :pig: `:pig:`
+- :pig2: `:pig2:`
+- :pig_nose: `:pig_nose:`
+- :pill: `:pill:`
+- :pilot: `:pilot:`
+- :pinata: `:pinata:`
+- :pinched_fingers: `:pinched_fingers:`
+- :pinching_hand: `:pinching_hand:`
+- :pineapple: `:pineapple:`
+- :ping_pong: `:ping_pong:`
+- :pink_heart: `:pink_heart:`
+- :pirate_flag: `:pirate_flag:`
+- :pisces: `:pisces:`
+- :pitcairn_islands: `:pitcairn_islands:`
+- :pizza: `:pizza:`
+- :placard: `:placard:`
+- :place_of_worship: `:place_of_worship:`
+- :plate_with_cutlery: `:plate_with_cutlery:`
+- :play_or_pause_button: `:play_or_pause_button:`
+- :playground_slide: `:playground_slide:`
+- :pleading_face: `:pleading_face:`
+- :plunger: `:plunger:`
+- :point_down: `:point_down:`
+- :point_left: `:point_left:`
+- :point_right: `:point_right:`
+- :point_up: `:point_up:`
+- :point_up_2: `:point_up_2:`
+- :poland: `:poland:`
+- :polar_bear: `:polar_bear:`
+- :police_car: `:police_car:`
+- :police_officer: `:police_officer:`
+- :policeman: `:policeman:`
+- :policewoman: `:policewoman:`
+- :poodle: `:poodle:`
+- :poop: `:poop:`
+- :popcorn: `:popcorn:`
+- :portugal: `:portugal:`
+- :post_office: `:post_office:`
+- :postal_horn: `:postal_horn:`
+- :postbox: `:postbox:`
+- :potable_water: `:potable_water:`
+- :potato: `:potato:`
+- :potted_plant: `:potted_plant:`
+- :pouch: `:pouch:`
+- :poultry_leg: `:poultry_leg:`
+- :pound: `:pound:`
+- :pouring_liquid: `:pouring_liquid:`
+- :pout: `:pout:`
+- :pouting_cat: `:pouting_cat:`
+- :pouting_face: `:pouting_face:`
+- :pouting_man: `:pouting_man:`
+- :pouting_woman: `:pouting_woman:`
+- :pray: `:pray:`
+- :prayer_beads: `:prayer_beads:`
+- :pregnant_man: `:pregnant_man:`
+- :pregnant_person: `:pregnant_person:`
+- :pregnant_woman: `:pregnant_woman:`
+- :pretzel: `:pretzel:`
+- :previous_track_button: `:previous_track_button:`
+- :prince: `:prince:`
+- :princess: `:princess:`
+- :printer: `:printer:`
+- :probing_cane: `:probing_cane:`
+- :puerto_rico: `:puerto_rico:`
+- :punch: `:punch:`
+- :purple_circle: `:purple_circle:`
+- :purple_heart: `:purple_heart:`
+- :purple_square: `:purple_square:`
+- :purse: `:purse:`
+- :pushpin: `:pushpin:`
+- :put_litter_in_its_place: `:put_litter_in_its_place:`
+- :qatar: `:qatar:`
+- :question: `:question:`
+- :rabbit: `:rabbit:`
+- :rabbit2: `:rabbit2:`
+- :raccoon: `:raccoon:`
+- :racehorse: `:racehorse:`
+- :racing_car: `:racing_car:`
+- :radio: `:radio:`
+- :radio_button: `:radio_button:`
+- :radioactive: `:radioactive:`
+- :rage: `:rage:`
+- :rage1: `:rage1:`
+- :rage2: `:rage2:`
+- :rage3: `:rage3:`
+- :rage4: `:rage4:`
+- :railway_car: `:railway_car:`
+- :railway_track: `:railway_track:`
+- :rainbow: `:rainbow:`
+- :rainbow_flag: `:rainbow_flag:`
+- :raised_back_of_hand: `:raised_back_of_hand:`
+- :raised_eyebrow: `:raised_eyebrow:`
+- :raised_hand: `:raised_hand:`
+- :raised_hand_with_fingers_splayed: `:raised_hand_with_fingers_splayed:`
+- :raised_hands: `:raised_hands:`
+- :raising_hand: `:raising_hand:`
+- :raising_hand_man: `:raising_hand_man:`
+- :raising_hand_woman: `:raising_hand_woman:`
+- :ram: `:ram:`
+- :ramen: `:ramen:`
+- :rat: `:rat:`
+- :razor: `:razor:`
+- :receipt: `:receipt:`
+- :record_button: `:record_button:`
+- :recycle: `:recycle:`
+- :red_car: `:red_car:`
+- :red_circle: `:red_circle:`
+- :red_envelope: `:red_envelope:`
+- :red_haired_man: `:red_haired_man:`
+- :red_haired_woman: `:red_haired_woman:`
+- :red_square: `:red_square:`
+- :registered: `:registered:`
+- :relaxed: `:relaxed:`
+- :relieved: `:relieved:`
+- :reminder_ribbon: `:reminder_ribbon:`
+- :repeat: `:repeat:`
+- :repeat_one: `:repeat_one:`
+- :rescue_worker_helmet: `:rescue_worker_helmet:`
+- :restroom: `:restroom:`
+- :reunion: `:reunion:`
+- :revolving_hearts: `:revolving_hearts:`
+- :rewind: `:rewind:`
+- :rhinoceros: `:rhinoceros:`
+- :ribbon: `:ribbon:`
+- :rice: `:rice:`
+- :rice_ball: `:rice_ball:`
+- :rice_cracker: `:rice_cracker:`
+- :rice_scene: `:rice_scene:`
+- :right_anger_bubble: `:right_anger_bubble:`
+- :rightwards_hand: `:rightwards_hand:`
+- :rightwards_pushing_hand: `:rightwards_pushing_hand:`
+- :ring: `:ring:`
+- :ring_buoy: `:ring_buoy:`
+- :ringed_planet: `:ringed_planet:`
+- :robot: `:robot:`
+- :rock: `:rock:`
+- :rocket: `:rocket:`
+- :rofl: `:rofl:`
+- :roll_eyes: `:roll_eyes:`
+- :roll_of_paper: `:roll_of_paper:`
+- :roller_coaster: `:roller_coaster:`
+- :roller_skate: `:roller_skate:`
+- :romania: `:romania:`
+- :rooster: `:rooster:`
+- :rose: `:rose:`
+- :rosette: `:rosette:`
+- :rotating_light: `:rotating_light:`
+- :round_pushpin: `:round_pushpin:`
+- :rowboat: `:rowboat:`
+- :rowing_man: `:rowing_man:`
+- :rowing_woman: `:rowing_woman:`
+- :ru: `:ru:`
+- :rugby_football: `:rugby_football:`
+- :runner: `:runner:`
+- :running: `:running:`
+- :running_man: `:running_man:`
+- :running_shirt_with_sash: `:running_shirt_with_sash:`
+- :running_woman: `:running_woman:`
+- :rwanda: `:rwanda:`
+- :sa: `:sa:`
+- :safety_pin: `:safety_pin:`
+- :safety_vest: `:safety_vest:`
+- :sagittarius: `:sagittarius:`
+- :sailboat: `:sailboat:`
+- :sake: `:sake:`
+- :salt: `:salt:`
+- :saluting_face: `:saluting_face:`
+- :samoa: `:samoa:`
+- :san_marino: `:san_marino:`
+- :sandal: `:sandal:`
+- :sandwich: `:sandwich:`
+- :santa: `:santa:`
+- :sao_tome_principe: `:sao_tome_principe:`
+- :sari: `:sari:`
+- :sassy_man: `:sassy_man:`
+- :sassy_woman: `:sassy_woman:`
+- :satellite: `:satellite:`
+- :satisfied: `:satisfied:`
+- :saudi_arabia: `:saudi_arabia:`
+- :sauna_man: `:sauna_man:`
+- :sauna_person: `:sauna_person:`
+- :sauna_woman: `:sauna_woman:`
+- :sauropod: `:sauropod:`
+- :saxophone: `:saxophone:`
+- :scarf: `:scarf:`
+- :school: `:school:`
+- :school_satchel: `:school_satchel:`
+- :scientist: `:scientist:`
+- :scissors: `:scissors:`
+- :scorpion: `:scorpion:`
+- :scorpius: `:scorpius:`
+- :scotland: `:scotland:`
+- :scream: `:scream:`
+- :scream_cat: `:scream_cat:`
+- :screwdriver: `:screwdriver:`
+- :scroll: `:scroll:`
+- :seal: `:seal:`
+- :seat: `:seat:`
+- :secret: `:secret:`
+- :see_no_evil: `:see_no_evil:`
+- :seedling: `:seedling:`
+- :selfie: `:selfie:`
+- :senegal: `:senegal:`
+- :serbia: `:serbia:`
+- :service_dog: `:service_dog:`
+- :seven: `:seven:`
+- :sewing_needle: `:sewing_needle:`
+- :seychelles: `:seychelles:`
+- :shaking_face: `:shaking_face:`
+- :shallow_pan_of_food: `:shallow_pan_of_food:`
+- :shamrock: `:shamrock:`
+- :shark: `:shark:`
+- :shaved_ice: `:shaved_ice:`
+- :sheep: `:sheep:`
+- :shell: `:shell:`
+- :shield: `:shield:`
+- :shinto_shrine: `:shinto_shrine:`
+- :ship: `:ship:`
+- :shipit: `:shipit:`
+- :shirt: `:shirt:`
+- :shit: `:shit:`
+- :shoe: `:shoe:`
+- :shopping: `:shopping:`
+- :shopping_cart: `:shopping_cart:`
+- :shorts: `:shorts:`
+- :shower: `:shower:`
+- :shrimp: `:shrimp:`
+- :shrug: `:shrug:`
+- :shushing_face: `:shushing_face:`
+- :sierra_leone: `:sierra_leone:`
+- :signal_strength: `:signal_strength:`
+- :singapore: `:singapore:`
+- :singer: `:singer:`
+- :sint_maarten: `:sint_maarten:`
+- :six: `:six:`
+- :six_pointed_star: `:six_pointed_star:`
+- :skateboard: `:skateboard:`
+- :ski: `:ski:`
+- :skier: `:skier:`
+- :skull: `:skull:`
+- :skull_and_crossbones: `:skull_and_crossbones:`
+- :skunk: `:skunk:`
+- :sled: `:sled:`
+- :sleeping: `:sleeping:`
+- :sleeping_bed: `:sleeping_bed:`
+- :sleepy: `:sleepy:`
+- :slightly_frowning_face: `:slightly_frowning_face:`
+- :slightly_smiling_face: `:slightly_smiling_face:`
+- :slot_machine: `:slot_machine:`
+- :sloth: `:sloth:`
+- :slovakia: `:slovakia:`
+- :slovenia: `:slovenia:`
+- :small_airplane: `:small_airplane:`
+- :small_blue_diamond: `:small_blue_diamond:`
+- :small_orange_diamond: `:small_orange_diamond:`
+- :small_red_triangle: `:small_red_triangle:`
+- :small_red_triangle_down: `:small_red_triangle_down:`
+- :smile: `:smile:`
+- :smile_cat: `:smile_cat:`
+- :smiley: `:smiley:`
+- :smiley_cat: `:smiley_cat:`
+- :smiling_face_with_tear: `:smiling_face_with_tear:`
+- :smiling_face_with_three_hearts: `:smiling_face_with_three_hearts:`
+- :smiling_imp: `:smiling_imp:`
+- :smirk: `:smirk:`
+- :smirk_cat: `:smirk_cat:`
+- :smoking: `:smoking:`
+- :snail: `:snail:`
+- :snake: `:snake:`
+- :sneezing_face: `:sneezing_face:`
+- :snowboarder: `:snowboarder:`
+- :snowflake: `:snowflake:`
+- :snowman: `:snowman:`
+- :snowman_with_snow: `:snowman_with_snow:`
+- :soap: `:soap:`
+- :sob: `:sob:`
+- :soccer: `:soccer:`
+- :socks: `:socks:`
+- :softball: `:softball:`
+- :solomon_islands: `:solomon_islands:`
+- :somalia: `:somalia:`
+- :soon: `:soon:`
+- :sos: `:sos:`
+- :sound: `:sound:`
+- :south_africa: `:south_africa:`
+- :south_georgia_south_sandwich_islands: `:south_georgia_south_sandwich_islands:`
+- :south_sudan: `:south_sudan:`
+- :space_invader: `:space_invader:`
+- :spades: `:spades:`
+- :spaghetti: `:spaghetti:`
+- :sparkle: `:sparkle:`
+- :sparkler: `:sparkler:`
+- :sparkles: `:sparkles:`
+- :sparkling_heart: `:sparkling_heart:`
+- :speak_no_evil: `:speak_no_evil:`
+- :speaker: `:speaker:`
+- :speaking_head: `:speaking_head:`
+- :speech_balloon: `:speech_balloon:`
+- :speedboat: `:speedboat:`
+- :spider: `:spider:`
+- :spider_web: `:spider_web:`
+- :spiral_calendar: `:spiral_calendar:`
+- :spiral_notepad: `:spiral_notepad:`
+- :sponge: `:sponge:`
+- :spoon: `:spoon:`
+- :squid: `:squid:`
+- :sri_lanka: `:sri_lanka:`
+- :st_barthelemy: `:st_barthelemy:`
+- :st_helena: `:st_helena:`
+- :st_kitts_nevis: `:st_kitts_nevis:`
+- :st_lucia: `:st_lucia:`
+- :st_martin: `:st_martin:`
+- :st_pierre_miquelon: `:st_pierre_miquelon:`
+- :st_vincent_grenadines: `:st_vincent_grenadines:`
+- :stadium: `:stadium:`
+- :standing_man: `:standing_man:`
+- :standing_person: `:standing_person:`
+- :standing_woman: `:standing_woman:`
+- :star: `:star:`
+- :star2: `:star2:`
+- :star_and_crescent: `:star_and_crescent:`
+- :star_of_david: `:star_of_david:`
+- :star_struck: `:star_struck:`
+- :stars: `:stars:`
+- :station: `:station:`
+- :statue_of_liberty: `:statue_of_liberty:`
+- :steam_locomotive: `:steam_locomotive:`
+- :stethoscope: `:stethoscope:`
+- :stew: `:stew:`
+- :stop_button: `:stop_button:`
+- :stop_sign: `:stop_sign:`
+- :stopwatch: `:stopwatch:`
+- :straight_ruler: `:straight_ruler:`
+- :strawberry: `:strawberry:`
+- :stuck_out_tongue: `:stuck_out_tongue:`
+- :stuck_out_tongue_closed_eyes: `:stuck_out_tongue_closed_eyes:`
+- :stuck_out_tongue_winking_eye: `:stuck_out_tongue_winking_eye:`
+- :student: `:student:`
+- :studio_microphone: `:studio_microphone:`
+- :stuffed_flatbread: `:stuffed_flatbread:`
+- :sudan: `:sudan:`
+- :sun_behind_large_cloud: `:sun_behind_large_cloud:`
+- :sun_behind_rain_cloud: `:sun_behind_rain_cloud:`
+- :sun_behind_small_cloud: `:sun_behind_small_cloud:`
+- :sun_with_face: `:sun_with_face:`
+- :sunflower: `:sunflower:`
+- :sunglasses: `:sunglasses:`
+- :sunny: `:sunny:`
+- :sunrise: `:sunrise:`
+- :sunrise_over_mountains: `:sunrise_over_mountains:`
+- :superhero: `:superhero:`
+- :superhero_man: `:superhero_man:`
+- :superhero_woman: `:superhero_woman:`
+- :supervillain: `:supervillain:`
+- :supervillain_man: `:supervillain_man:`
+- :supervillain_woman: `:supervillain_woman:`
+- :surfer: `:surfer:`
+- :surfing_man: `:surfing_man:`
+- :surfing_woman: `:surfing_woman:`
+- :suriname: `:suriname:`
+- :sushi: `:sushi:`
+- :suspect: `:suspect:`
+- :suspension_railway: `:suspension_railway:`
+- :svalbard_jan_mayen: `:svalbard_jan_mayen:`
+- :swan: `:swan:`
+- :swaziland: `:swaziland:`
+- :sweat: `:sweat:`
+- :sweat_drops: `:sweat_drops:`
+- :sweat_smile: `:sweat_smile:`
+- :sweden: `:sweden:`
+- :sweet_potato: `:sweet_potato:`
+- :swim_brief: `:swim_brief:`
+- :swimmer: `:swimmer:`
+- :swimming_man: `:swimming_man:`
+- :swimming_woman: `:swimming_woman:`
+- :switzerland: `:switzerland:`
+- :symbols: `:symbols:`
+- :synagogue: `:synagogue:`
+- :syria: `:syria:`
+- :syringe: `:syringe:`
+- :t-rex: `:t-rex:`
+- :taco: `:taco:`
+- :tada: `:tada:`
+- :taiwan: `:taiwan:`
+- :tajikistan: `:tajikistan:`
+- :takeout_box: `:takeout_box:`
+- :tamale: `:tamale:`
+- :tanabata_tree: `:tanabata_tree:`
+- :tangerine: `:tangerine:`
+- :tanzania: `:tanzania:`
+- :taurus: `:taurus:`
+- :taxi: `:taxi:`
+- :tea: `:tea:`
+- :teacher: `:teacher:`
+- :teapot: `:teapot:`
+- :technologist: `:technologist:`
+- :teddy_bear: `:teddy_bear:`
+- :telephone: `:telephone:`
+- :telephone_receiver: `:telephone_receiver:`
+- :telescope: `:telescope:`
+- :tennis: `:tennis:`
+- :tent: `:tent:`
+- :test_tube: `:test_tube:`
+- :thailand: `:thailand:`
+- :thermometer: `:thermometer:`
+- :thinking: `:thinking:`
+- :thong_sandal: `:thong_sandal:`
+- :thought_balloon: `:thought_balloon:`
+- :thread: `:thread:`
+- :three: `:three:`
+- :thumbsdown: `:thumbsdown:`
+- :thumbsup: `:thumbsup:`
+- :ticket: `:ticket:`
+- :tickets: `:tickets:`
+- :tiger: `:tiger:`
+- :tiger2: `:tiger2:`
+- :timer_clock: `:timer_clock:`
+- :timor_leste: `:timor_leste:`
+- :tipping_hand_man: `:tipping_hand_man:`
+- :tipping_hand_person: `:tipping_hand_person:`
+- :tipping_hand_woman: `:tipping_hand_woman:`
+- :tired_face: `:tired_face:`
+- :tm: `:tm:`
+- :togo: `:togo:`
+- :toilet: `:toilet:`
+- :tokelau: `:tokelau:`
+- :tokyo_tower: `:tokyo_tower:`
+- :tomato: `:tomato:`
+- :tonga: `:tonga:`
+- :tongue: `:tongue:`
+- :toolbox: `:toolbox:`
+- :tooth: `:tooth:`
+- :toothbrush: `:toothbrush:`
+- :top: `:top:`
+- :tophat: `:tophat:`
+- :tornado: `:tornado:`
+- :tr: `:tr:`
+- :trackball: `:trackball:`
+- :tractor: `:tractor:`
+- :traffic_light: `:traffic_light:`
+- :train: `:train:`
+- :train2: `:train2:`
+- :tram: `:tram:`
+- :transgender_flag: `:transgender_flag:`
+- :transgender_symbol: `:transgender_symbol:`
+- :triangular_flag_on_post: `:triangular_flag_on_post:`
+- :triangular_ruler: `:triangular_ruler:`
+- :trident: `:trident:`
+- :trinidad_tobago: `:trinidad_tobago:`
+- :tristan_da_cunha: `:tristan_da_cunha:`
+- :triumph: `:triumph:`
+- :troll: `:troll:`
+- :trolleybus: `:trolleybus:`
+- :trollface: `:trollface:`
+- :trophy: `:trophy:`
+- :tropical_drink: `:tropical_drink:`
+- :tropical_fish: `:tropical_fish:`
+- :truck: `:truck:`
+- :trumpet: `:trumpet:`
+- :tshirt: `:tshirt:`
+- :tulip: `:tulip:`
+- :tumbler_glass: `:tumbler_glass:`
+- :tunisia: `:tunisia:`
+- :turkey: `:turkey:`
+- :turkmenistan: `:turkmenistan:`
+- :turks_caicos_islands: `:turks_caicos_islands:`
+- :turtle: `:turtle:`
+- :tuvalu: `:tuvalu:`
+- :tv: `:tv:`
+- :twisted_rightwards_arrows: `:twisted_rightwards_arrows:`
+- :two: `:two:`
+- :two_hearts: `:two_hearts:`
+- :two_men_holding_hands: `:two_men_holding_hands:`
+- :two_women_holding_hands: `:two_women_holding_hands:`
+- :u5272: `:u5272:`
+- :u5408: `:u5408:`
+- :u55b6: `:u55b6:`
+- :u6307: `:u6307:`
+- :u6708: `:u6708:`
+- :u6709: `:u6709:`
+- :u6e80: `:u6e80:`
+- :u7121: `:u7121:`
+- :u7533: `:u7533:`
+- :u7981: `:u7981:`
+- :u7a7a: `:u7a7a:`
+- :uganda: `:uganda:`
+- :uk: `:uk:`
+- :ukraine: `:ukraine:`
+- :umbrella: `:umbrella:`
+- :unamused: `:unamused:`
+- :underage: `:underage:`
+- :unicorn: `:unicorn:`
+- :united_arab_emirates: `:united_arab_emirates:`
+- :united_nations: `:united_nations:`
+- :unlock: `:unlock:`
+- :up: `:up:`
+- :upside_down_face: `:upside_down_face:`
+- :uruguay: `:uruguay:`
+- :us: `:us:`
+- :us_outlying_islands: `:us_outlying_islands:`
+- :us_virgin_islands: `:us_virgin_islands:`
+- :uzbekistan: `:uzbekistan:`
+- :v: `:v:`
+- :vampire: `:vampire:`
+- :vampire_man: `:vampire_man:`
+- :vampire_woman: `:vampire_woman:`
+- :vanuatu: `:vanuatu:`
+- :vatican_city: `:vatican_city:`
+- :venezuela: `:venezuela:`
+- :vertical_traffic_light: `:vertical_traffic_light:`
+- :vhs: `:vhs:`
+- :vibration_mode: `:vibration_mode:`
+- :video_camera: `:video_camera:`
+- :video_game: `:video_game:`
+- :vietnam: `:vietnam:`
+- :violin: `:violin:`
+- :virgo: `:virgo:`
+- :volcano: `:volcano:`
+- :volleyball: `:volleyball:`
+- :vomiting_face: `:vomiting_face:`
+- :vs: `:vs:`
+- :vulcan_salute: `:vulcan_salute:`
+- :waffle: `:waffle:`
+- :wales: `:wales:`
+- :walking: `:walking:`
+- :walking_man: `:walking_man:`
+- :walking_woman: `:walking_woman:`
+- :wallis_futuna: `:wallis_futuna:`
+- :waning_crescent_moon: `:waning_crescent_moon:`
+- :waning_gibbous_moon: `:waning_gibbous_moon:`
+- :warning: `:warning:`
+- :wastebasket: `:wastebasket:`
+- :watch: `:watch:`
+- :water_buffalo: `:water_buffalo:`
+- :water_polo: `:water_polo:`
+- :watermelon: `:watermelon:`
+- :wave: `:wave:`
+- :wavy_dash: `:wavy_dash:`
+- :waxing_crescent_moon: `:waxing_crescent_moon:`
+- :waxing_gibbous_moon: `:waxing_gibbous_moon:`
+- :wc: `:wc:`
+- :weary: `:weary:`
+- :wedding: `:wedding:`
+- :weight_lifting: `:weight_lifting:`
+- :weight_lifting_man: `:weight_lifting_man:`
+- :weight_lifting_woman: `:weight_lifting_woman:`
+- :western_sahara: `:western_sahara:`
+- :whale: `:whale:`
+- :whale2: `:whale2:`
+- :wheel: `:wheel:`
+- :wheel_of_dharma: `:wheel_of_dharma:`
+- :wheelchair: `:wheelchair:`
+- :white_check_mark: `:white_check_mark:`
+- :white_circle: `:white_circle:`
+- :white_flag: `:white_flag:`
+- :white_flower: `:white_flower:`
+- :white_haired_man: `:white_haired_man:`
+- :white_haired_woman: `:white_haired_woman:`
+- :white_heart: `:white_heart:`
+- :white_large_square: `:white_large_square:`
+- :white_medium_small_square: `:white_medium_small_square:`
+- :white_medium_square: `:white_medium_square:`
+- :white_small_square: `:white_small_square:`
+- :white_square_button: `:white_square_button:`
+- :wilted_flower: `:wilted_flower:`
+- :wind_chime: `:wind_chime:`
+- :wind_face: `:wind_face:`
+- :window: `:window:`
+- :wine_glass: `:wine_glass:`
+- :wing: `:wing:`
+- :wink: `:wink:`
+- :wireless: `:wireless:`
+- :wolf: `:wolf:`
+- :woman: `:woman:`
+- :woman_artist: `:woman_artist:`
+- :woman_astronaut: `:woman_astronaut:`
+- :woman_beard: `:woman_beard:`
+- :woman_cartwheeling: `:woman_cartwheeling:`
+- :woman_cook: `:woman_cook:`
+- :woman_dancing: `:woman_dancing:`
+- :woman_facepalming: `:woman_facepalming:`
+- :woman_factory_worker: `:woman_factory_worker:`
+- :woman_farmer: `:woman_farmer:`
+- :woman_feeding_baby: `:woman_feeding_baby:`
+- :woman_firefighter: `:woman_firefighter:`
+- :woman_health_worker: `:woman_health_worker:`
+- :woman_in_manual_wheelchair: `:woman_in_manual_wheelchair:`
+- :woman_in_motorized_wheelchair: `:woman_in_motorized_wheelchair:`
+- :woman_in_tuxedo: `:woman_in_tuxedo:`
+- :woman_judge: `:woman_judge:`
+- :woman_juggling: `:woman_juggling:`
+- :woman_mechanic: `:woman_mechanic:`
+- :woman_office_worker: `:woman_office_worker:`
+- :woman_pilot: `:woman_pilot:`
+- :woman_playing_handball: `:woman_playing_handball:`
+- :woman_playing_water_polo: `:woman_playing_water_polo:`
+- :woman_scientist: `:woman_scientist:`
+- :woman_shrugging: `:woman_shrugging:`
+- :woman_singer: `:woman_singer:`
+- :woman_student: `:woman_student:`
+- :woman_teacher: `:woman_teacher:`
+- :woman_technologist: `:woman_technologist:`
+- :woman_with_headscarf: `:woman_with_headscarf:`
+- :woman_with_probing_cane: `:woman_with_probing_cane:`
+- :woman_with_turban: `:woman_with_turban:`
+- :woman_with_veil: `:woman_with_veil:`
+- :womans_clothes: `:womans_clothes:`
+- :womans_hat: `:womans_hat:`
+- :women_wrestling: `:women_wrestling:`
+- :womens: `:womens:`
+- :wood: `:wood:`
+- :woozy_face: `:woozy_face:`
+- :world_map: `:world_map:`
+- :worm: `:worm:`
+- :worried: `:worried:`
+- :wrench: `:wrench:`
+- :wrestling: `:wrestling:`
+- :writing_hand: `:writing_hand:`
+- :x: `:x:`
+- :x_ray: `:x_ray:`
+- :yarn: `:yarn:`
+- :yawning_face: `:yawning_face:`
+- :yellow_circle: `:yellow_circle:`
+- :yellow_heart: `:yellow_heart:`
+- :yellow_square: `:yellow_square:`
+- :yemen: `:yemen:`
+- :yen: `:yen:`
+- :yin_yang: `:yin_yang:`
+- :yo_yo: `:yo_yo:`
+- :yum: `:yum:`
+- :zambia: `:zambia:`
+- :zany_face: `:zany_face:`
+- :zap: `:zap:`
+- :zebra: `:zebra:`
+- :zero: `:zero:`
+- :zimbabwe: `:zimbabwe:`
+- :zipper_mouth_face: `:zipper_mouth_face:`
+- :zombie: `:zombie:`
+- :zombie_man: `:zombie_man:`
+- :zombie_woman: `:zombie_woman:`
+- :zzz: `:zzz:`
+
+## Images
+
+- ![+1](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//+1.png)
+- ![-1](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//-1.png)
+- ![100](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//100.png)
+- ![1234](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//1234.png)
+- ![1st_place_medal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//1st_place_medal.png)
+- ![2nd_place_medal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//2nd_place_medal.png)
+- ![3rd_place_medal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//3rd_place_medal.png)
+- ![8ball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//8ball.png)
+- ![a](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//a.png)
+- ![ab](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ab.png)
+- ![abacus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//abacus.png)
+- ![abc](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//abc.png)
+- ![abcd](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//abcd.png)
+- ![accept](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//accept.png)
+- ![accessibility](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//accessibility.png)
+- ![accordion](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//accordion.png)
+- ![adhesive_bandage](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//adhesive_bandage.png)
+- ![adult](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//adult.png)
+- ![aerial_tramway](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//aerial_tramway.png)
+- ![afghanistan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//afghanistan.png)
+- ![airplane](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//airplane.png)
+- ![aland_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//aland_islands.png)
+- ![alarm_clock](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//alarm_clock.png)
+- ![albania](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//albania.png)
+- ![alembic](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//alembic.png)
+- ![algeria](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//algeria.png)
+- ![alien](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//alien.png)
+- ![ambulance](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ambulance.png)
+- ![american_samoa](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//american_samoa.png)
+- ![amphora](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//amphora.png)
+- ![anatomical_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//anatomical_heart.png)
+- ![anchor](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//anchor.png)
+- ![andorra](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//andorra.png)
+- ![angel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//angel.png)
+- ![anger](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//anger.png)
+- ![angola](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//angola.png)
+- ![angry](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//angry.png)
+- ![anguilla](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//anguilla.png)
+- ![anguished](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//anguished.png)
+- ![ant](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ant.png)
+- ![antarctica](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//antarctica.png)
+- ![antigua_barbuda](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//antigua_barbuda.png)
+- ![apple](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//apple.png)
+- ![aquarius](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//aquarius.png)
+- ![argentina](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//argentina.png)
+- ![aries](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//aries.png)
+- ![armenia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//armenia.png)
+- ![arrow_backward](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_backward.png)
+- ![arrow_double_down](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_double_down.png)
+- ![arrow_double_up](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_double_up.png)
+- ![arrow_down](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_down.png)
+- ![arrow_down_small](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_down_small.png)
+- ![arrow_forward](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_forward.png)
+- ![arrow_heading_down](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_heading_down.png)
+- ![arrow_heading_up](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_heading_up.png)
+- ![arrow_left](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_left.png)
+- ![arrow_lower_left](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_lower_left.png)
+- ![arrow_lower_right](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_lower_right.png)
+- ![arrow_right](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_right.png)
+- ![arrow_right_hook](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_right_hook.png)
+- ![arrow_up](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_up.png)
+- ![arrow_up_down](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_up_down.png)
+- ![arrow_up_small](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_up_small.png)
+- ![arrow_upper_left](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_upper_left.png)
+- ![arrow_upper_right](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrow_upper_right.png)
+- ![arrows_clockwise](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrows_clockwise.png)
+- ![arrows_counterclockwise](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//arrows_counterclockwise.png)
+- ![art](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//art.png)
+- ![articulated_lorry](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//articulated_lorry.png)
+- ![artificial_satellite](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//artificial_satellite.png)
+- ![artist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//artist.png)
+- ![aruba](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//aruba.png)
+- ![ascension_island](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ascension_island.png)
+- ![asterisk](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//asterisk.png)
+- ![astonished](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//astonished.png)
+- ![astronaut](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//astronaut.png)
+- ![athletic_shoe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//athletic_shoe.png)
+- ![atm](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//atm.png)
+- ![atom](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//atom.png)
+- ![atom_symbol](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//atom_symbol.png)
+- ![australia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//australia.png)
+- ![austria](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//austria.png)
+- ![auto_rickshaw](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//auto_rickshaw.png)
+- ![avocado](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//avocado.png)
+- ![axe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//axe.png)
+- ![azerbaijan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//azerbaijan.png)
+- ![b](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//b.png)
+- ![baby](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//baby.png)
+- ![baby_bottle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//baby_bottle.png)
+- ![baby_chick](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//baby_chick.png)
+- ![baby_symbol](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//baby_symbol.png)
+- ![back](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//back.png)
+- ![bacon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bacon.png)
+- ![badger](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//badger.png)
+- ![badminton](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//badminton.png)
+- ![bagel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bagel.png)
+- ![baggage_claim](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//baggage_claim.png)
+- ![baguette_bread](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//baguette_bread.png)
+- ![bahamas](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bahamas.png)
+- ![bahrain](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bahrain.png)
+- ![balance_scale](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//balance_scale.png)
+- ![bald_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bald_man.png)
+- ![bald_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bald_woman.png)
+- ![ballet_shoes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ballet_shoes.png)
+- ![balloon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//balloon.png)
+- ![ballot_box](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ballot_box.png)
+- ![ballot_box_with_check](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ballot_box_with_check.png)
+- ![bamboo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bamboo.png)
+- ![banana](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//banana.png)
+- ![bangbang](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bangbang.png)
+- ![bangladesh](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bangladesh.png)
+- ![banjo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//banjo.png)
+- ![bank](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bank.png)
+- ![bar_chart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bar_chart.png)
+- ![barbados](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//barbados.png)
+- ![barber](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//barber.png)
+- ![baseball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//baseball.png)
+- ![basecamp](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//basecamp.png)
+- ![basecampy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//basecampy.png)
+- ![basket](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//basket.png)
+- ![basketball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//basketball.png)
+- ![basketball_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//basketball_man.png)
+- ![basketball_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//basketball_woman.png)
+- ![bat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bat.png)
+- ![bath](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bath.png)
+- ![bathtub](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bathtub.png)
+- ![battery](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//battery.png)
+- ![beach_umbrella](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//beach_umbrella.png)
+- ![beans](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//beans.png)
+- ![bear](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bear.png)
+- ![bearded_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bearded_person.png)
+- ![beaver](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//beaver.png)
+- ![bed](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bed.png)
+- ![bee](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bee.png)
+- ![beer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//beer.png)
+- ![beers](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//beers.png)
+- ![beetle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//beetle.png)
+- ![beginner](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//beginner.png)
+- ![belarus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//belarus.png)
+- ![belgium](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//belgium.png)
+- ![belize](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//belize.png)
+- ![bell](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bell.png)
+- ![bell_pepper](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bell_pepper.png)
+- ![bellhop_bell](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bellhop_bell.png)
+- ![benin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//benin.png)
+- ![bento](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bento.png)
+- ![bermuda](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bermuda.png)
+- ![beverage_box](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//beverage_box.png)
+- ![bhutan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bhutan.png)
+- ![bicyclist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bicyclist.png)
+- ![bike](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bike.png)
+- ![biking_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//biking_man.png)
+- ![biking_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//biking_woman.png)
+- ![bikini](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bikini.png)
+- ![billed_cap](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//billed_cap.png)
+- ![biohazard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//biohazard.png)
+- ![bird](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bird.png)
+- ![birthday](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//birthday.png)
+- ![bison](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bison.png)
+- ![biting_lip](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//biting_lip.png)
+- ![black_bird](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_bird.png)
+- ![black_cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_cat.png)
+- ![black_circle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_circle.png)
+- ![black_flag](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_flag.png)
+- ![black_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_heart.png)
+- ![black_joker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_joker.png)
+- ![black_large_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_large_square.png)
+- ![black_medium_small_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_medium_small_square.png)
+- ![black_medium_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_medium_square.png)
+- ![black_nib](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_nib.png)
+- ![black_small_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_small_square.png)
+- ![black_square_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//black_square_button.png)
+- ![blond_haired_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blond_haired_man.png)
+- ![blond_haired_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blond_haired_person.png)
+- ![blond_haired_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blond_haired_woman.png)
+- ![blonde_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blonde_woman.png)
+- ![blossom](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blossom.png)
+- ![blowfish](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blowfish.png)
+- ![blue_book](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blue_book.png)
+- ![blue_car](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blue_car.png)
+- ![blue_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blue_heart.png)
+- ![blue_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blue_square.png)
+- ![blueberries](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blueberries.png)
+- ![blush](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//blush.png)
+- ![boar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//boar.png)
+- ![boat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//boat.png)
+- ![bolivia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bolivia.png)
+- ![bomb](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bomb.png)
+- ![bone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bone.png)
+- ![book](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//book.png)
+- ![bookmark](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bookmark.png)
+- ![bookmark_tabs](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bookmark_tabs.png)
+- ![books](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//books.png)
+- ![boom](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//boom.png)
+- ![boomerang](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//boomerang.png)
+- ![boot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//boot.png)
+- ![bosnia_herzegovina](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bosnia_herzegovina.png)
+- ![botswana](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//botswana.png)
+- ![bouncing_ball_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bouncing_ball_man.png)
+- ![bouncing_ball_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bouncing_ball_person.png)
+- ![bouncing_ball_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bouncing_ball_woman.png)
+- ![bouquet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bouquet.png)
+- ![bouvet_island](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bouvet_island.png)
+- ![bow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bow.png)
+- ![bow_and_arrow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bow_and_arrow.png)
+- ![bowing_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bowing_man.png)
+- ![bowing_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bowing_woman.png)
+- ![bowl_with_spoon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bowl_with_spoon.png)
+- ![bowling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bowling.png)
+- ![bowtie](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bowtie.png)
+- ![boxing_glove](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//boxing_glove.png)
+- ![boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//boy.png)
+- ![brain](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//brain.png)
+- ![brazil](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//brazil.png)
+- ![bread](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bread.png)
+- ![breast_feeding](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//breast_feeding.png)
+- ![bricks](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bricks.png)
+- ![bride_with_veil](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bride_with_veil.png)
+- ![bridge_at_night](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bridge_at_night.png)
+- ![briefcase](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//briefcase.png)
+- ![british_indian_ocean_territory](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//british_indian_ocean_territory.png)
+- ![british_virgin_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//british_virgin_islands.png)
+- ![broccoli](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//broccoli.png)
+- ![broken_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//broken_heart.png)
+- ![broom](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//broom.png)
+- ![brown_circle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//brown_circle.png)
+- ![brown_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//brown_heart.png)
+- ![brown_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//brown_square.png)
+- ![brunei](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//brunei.png)
+- ![bubble_tea](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bubble_tea.png)
+- ![bubbles](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bubbles.png)
+- ![bucket](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bucket.png)
+- ![bug](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bug.png)
+- ![building_construction](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//building_construction.png)
+- ![bulb](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bulb.png)
+- ![bulgaria](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bulgaria.png)
+- ![bullettrain_front](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bullettrain_front.png)
+- ![bullettrain_side](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bullettrain_side.png)
+- ![burkina_faso](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//burkina_faso.png)
+- ![burrito](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//burrito.png)
+- ![burundi](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//burundi.png)
+- ![bus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bus.png)
+- ![business_suit_levitating](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//business_suit_levitating.png)
+- ![busstop](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//busstop.png)
+- ![bust_in_silhouette](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//bust_in_silhouette.png)
+- ![busts_in_silhouette](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//busts_in_silhouette.png)
+- ![butter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//butter.png)
+- ![butterfly](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//butterfly.png)
+- ![cactus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cactus.png)
+- ![cake](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cake.png)
+- ![calendar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//calendar.png)
+- ![call_me_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//call_me_hand.png)
+- ![calling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//calling.png)
+- ![cambodia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cambodia.png)
+- ![camel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//camel.png)
+- ![camera](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//camera.png)
+- ![camera_flash](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//camera_flash.png)
+- ![cameroon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cameroon.png)
+- ![camping](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//camping.png)
+- ![canada](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//canada.png)
+- ![canary_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//canary_islands.png)
+- ![cancer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cancer.png)
+- ![candle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//candle.png)
+- ![candy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//candy.png)
+- ![canned_food](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//canned_food.png)
+- ![canoe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//canoe.png)
+- ![cape_verde](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cape_verde.png)
+- ![capital_abcd](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//capital_abcd.png)
+- ![capricorn](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//capricorn.png)
+- ![car](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//car.png)
+- ![card_file_box](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//card_file_box.png)
+- ![card_index](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//card_index.png)
+- ![card_index_dividers](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//card_index_dividers.png)
+- ![caribbean_netherlands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//caribbean_netherlands.png)
+- ![carousel_horse](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//carousel_horse.png)
+- ![carpentry_saw](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//carpentry_saw.png)
+- ![carrot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//carrot.png)
+- ![cartwheeling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cartwheeling.png)
+- ![cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cat.png)
+- ![cat2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cat2.png)
+- ![cayman_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cayman_islands.png)
+- ![cd](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cd.png)
+- ![central_african_republic](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//central_african_republic.png)
+- ![ceuta_melilla](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ceuta_melilla.png)
+- ![chad](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chad.png)
+- ![chains](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chains.png)
+- ![chair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chair.png)
+- ![champagne](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//champagne.png)
+- ![chart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chart.png)
+- ![chart_with_downwards_trend](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chart_with_downwards_trend.png)
+- ![chart_with_upwards_trend](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chart_with_upwards_trend.png)
+- ![checkered_flag](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//checkered_flag.png)
+- ![cheese](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cheese.png)
+- ![cherries](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cherries.png)
+- ![cherry_blossom](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cherry_blossom.png)
+- ![chess_pawn](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chess_pawn.png)
+- ![chestnut](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chestnut.png)
+- ![chicken](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chicken.png)
+- ![child](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//child.png)
+- ![children_crossing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//children_crossing.png)
+- ![chile](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chile.png)
+- ![chipmunk](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chipmunk.png)
+- ![chocolate_bar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chocolate_bar.png)
+- ![chopsticks](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//chopsticks.png)
+- ![christmas_island](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//christmas_island.png)
+- ![christmas_tree](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//christmas_tree.png)
+- ![church](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//church.png)
+- ![cinema](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cinema.png)
+- ![circus_tent](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//circus_tent.png)
+- ![city_sunrise](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//city_sunrise.png)
+- ![city_sunset](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//city_sunset.png)
+- ![cityscape](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cityscape.png)
+- ![cl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cl.png)
+- ![clamp](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clamp.png)
+- ![clap](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clap.png)
+- ![clapper](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clapper.png)
+- ![classical_building](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//classical_building.png)
+- ![climbing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//climbing.png)
+- ![climbing_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//climbing_man.png)
+- ![climbing_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//climbing_woman.png)
+- ![clinking_glasses](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clinking_glasses.png)
+- ![clipboard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clipboard.png)
+- ![clipperton_island](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clipperton_island.png)
+- ![clock1](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock1.png)
+- ![clock10](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock10.png)
+- ![clock1030](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock1030.png)
+- ![clock11](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock11.png)
+- ![clock1130](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock1130.png)
+- ![clock12](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock12.png)
+- ![clock1230](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock1230.png)
+- ![clock130](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock130.png)
+- ![clock2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock2.png)
+- ![clock230](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock230.png)
+- ![clock3](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock3.png)
+- ![clock330](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock330.png)
+- ![clock4](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock4.png)
+- ![clock430](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock430.png)
+- ![clock5](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock5.png)
+- ![clock530](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock530.png)
+- ![clock6](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock6.png)
+- ![clock630](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock630.png)
+- ![clock7](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock7.png)
+- ![clock730](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock730.png)
+- ![clock8](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock8.png)
+- ![clock830](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock830.png)
+- ![clock9](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock9.png)
+- ![clock930](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clock930.png)
+- ![closed_book](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//closed_book.png)
+- ![closed_lock_with_key](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//closed_lock_with_key.png)
+- ![closed_umbrella](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//closed_umbrella.png)
+- ![cloud](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cloud.png)
+- ![cloud_with_lightning](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cloud_with_lightning.png)
+- ![cloud_with_lightning_and_rain](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cloud_with_lightning_and_rain.png)
+- ![cloud_with_rain](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cloud_with_rain.png)
+- ![cloud_with_snow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cloud_with_snow.png)
+- ![clown_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clown_face.png)
+- ![clubs](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//clubs.png)
+- ![cn](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cn.png)
+- ![coat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//coat.png)
+- ![cockroach](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cockroach.png)
+- ![cocktail](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cocktail.png)
+- ![coconut](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//coconut.png)
+- ![cocos_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cocos_islands.png)
+- ![coffee](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//coffee.png)
+- ![coffin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//coffin.png)
+- ![coin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//coin.png)
+- ![cold_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cold_face.png)
+- ![cold_sweat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cold_sweat.png)
+- ![collision](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//collision.png)
+- ![colombia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//colombia.png)
+- ![comet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//comet.png)
+- ![comoros](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//comoros.png)
+- ![compass](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//compass.png)
+- ![computer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//computer.png)
+- ![computer_mouse](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//computer_mouse.png)
+- ![confetti_ball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//confetti_ball.png)
+- ![confounded](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//confounded.png)
+- ![confused](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//confused.png)
+- ![congo_brazzaville](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//congo_brazzaville.png)
+- ![congo_kinshasa](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//congo_kinshasa.png)
+- ![congratulations](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//congratulations.png)
+- ![construction](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//construction.png)
+- ![construction_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//construction_worker.png)
+- ![construction_worker_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//construction_worker_man.png)
+- ![construction_worker_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//construction_worker_woman.png)
+- ![control_knobs](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//control_knobs.png)
+- ![convenience_store](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//convenience_store.png)
+- ![cook](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cook.png)
+- ![cook_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cook_islands.png)
+- ![cookie](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cookie.png)
+- ![cool](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cool.png)
+- ![cop](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cop.png)
+- ![copilot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//copilot.png)
+- ![copyright](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//copyright.png)
+- ![coral](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//coral.png)
+- ![corn](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//corn.png)
+- ![costa_rica](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//costa_rica.png)
+- ![cote_divoire](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cote_divoire.png)
+- ![couch_and_lamp](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couch_and_lamp.png)
+- ![couple](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couple.png)
+- ![couple_with_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couple_with_heart.png)
+- ![couple_with_heart_man_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couple_with_heart_man_man.png)
+- ![couple_with_heart_woman_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couple_with_heart_woman_man.png)
+- ![couple_with_heart_woman_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couple_with_heart_woman_woman.png)
+- ![couplekiss](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couplekiss.png)
+- ![couplekiss_man_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couplekiss_man_man.png)
+- ![couplekiss_man_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couplekiss_man_woman.png)
+- ![couplekiss_woman_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//couplekiss_woman_woman.png)
+- ![cow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cow.png)
+- ![cow2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cow2.png)
+- ![cowboy_hat_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cowboy_hat_face.png)
+- ![crab](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crab.png)
+- ![crayon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crayon.png)
+- ![credit_card](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//credit_card.png)
+- ![crescent_moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crescent_moon.png)
+- ![cricket](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cricket.png)
+- ![cricket_game](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cricket_game.png)
+- ![croatia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//croatia.png)
+- ![crocodile](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crocodile.png)
+- ![croissant](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//croissant.png)
+- ![crossed_fingers](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crossed_fingers.png)
+- ![crossed_flags](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crossed_flags.png)
+- ![crossed_swords](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crossed_swords.png)
+- ![crown](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crown.png)
+- ![crutch](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crutch.png)
+- ![cry](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cry.png)
+- ![crying_cat_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crying_cat_face.png)
+- ![crystal_ball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//crystal_ball.png)
+- ![cuba](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cuba.png)
+- ![cucumber](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cucumber.png)
+- ![cup_with_straw](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cup_with_straw.png)
+- ![cupcake](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cupcake.png)
+- ![cupid](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cupid.png)
+- ![curacao](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//curacao.png)
+- ![curling_stone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//curling_stone.png)
+- ![curly_haired_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//curly_haired_man.png)
+- ![curly_haired_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//curly_haired_woman.png)
+- ![curly_loop](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//curly_loop.png)
+- ![currency_exchange](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//currency_exchange.png)
+- ![curry](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//curry.png)
+- ![cursing_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cursing_face.png)
+- ![custard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//custard.png)
+- ![customs](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//customs.png)
+- ![cut_of_meat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cut_of_meat.png)
+- ![cyclone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cyclone.png)
+- ![cyprus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//cyprus.png)
+- ![czech_republic](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//czech_republic.png)
+- ![dagger](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dagger.png)
+- ![dancer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dancer.png)
+- ![dancers](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dancers.png)
+- ![dancing_men](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dancing_men.png)
+- ![dancing_women](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dancing_women.png)
+- ![dango](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dango.png)
+- ![dark_sunglasses](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dark_sunglasses.png)
+- ![dart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dart.png)
+- ![dash](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dash.png)
+- ![date](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//date.png)
+- ![de](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//de.png)
+- ![deaf_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//deaf_man.png)
+- ![deaf_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//deaf_person.png)
+- ![deaf_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//deaf_woman.png)
+- ![deciduous_tree](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//deciduous_tree.png)
+- ![deer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//deer.png)
+- ![denmark](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//denmark.png)
+- ![department_store](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//department_store.png)
+- ![dependabot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dependabot.png)
+- ![derelict_house](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//derelict_house.png)
+- ![desert](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//desert.png)
+- ![desert_island](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//desert_island.png)
+- ![desktop_computer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//desktop_computer.png)
+- ![detective](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//detective.png)
+- ![diamond_shape_with_a_dot_inside](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//diamond_shape_with_a_dot_inside.png)
+- ![diamonds](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//diamonds.png)
+- ![diego_garcia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//diego_garcia.png)
+- ![disappointed](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//disappointed.png)
+- ![disappointed_relieved](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//disappointed_relieved.png)
+- ![disguised_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//disguised_face.png)
+- ![diving_mask](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//diving_mask.png)
+- ![diya_lamp](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//diya_lamp.png)
+- ![dizzy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dizzy.png)
+- ![dizzy_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dizzy_face.png)
+- ![djibouti](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//djibouti.png)
+- ![dna](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dna.png)
+- ![do_not_litter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//do_not_litter.png)
+- ![dodo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dodo.png)
+- ![dog](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dog.png)
+- ![dog2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dog2.png)
+- ![dollar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dollar.png)
+- ![dolls](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dolls.png)
+- ![dolphin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dolphin.png)
+- ![dominica](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dominica.png)
+- ![dominican_republic](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dominican_republic.png)
+- ![donkey](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//donkey.png)
+- ![door](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//door.png)
+- ![dotted_line_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dotted_line_face.png)
+- ![doughnut](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//doughnut.png)
+- ![dove](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dove.png)
+- ![dragon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dragon.png)
+- ![dragon_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dragon_face.png)
+- ![dress](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dress.png)
+- ![dromedary_camel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dromedary_camel.png)
+- ![drooling_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//drooling_face.png)
+- ![drop_of_blood](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//drop_of_blood.png)
+- ![droplet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//droplet.png)
+- ![drum](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//drum.png)
+- ![duck](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//duck.png)
+- ![dumpling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dumpling.png)
+- ![dvd](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//dvd.png)
+- ![e-mail](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//e-mail.png)
+- ![eagle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eagle.png)
+- ![ear](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ear.png)
+- ![ear_of_rice](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ear_of_rice.png)
+- ![ear_with_hearing_aid](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ear_with_hearing_aid.png)
+- ![earth_africa](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//earth_africa.png)
+- ![earth_americas](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//earth_americas.png)
+- ![earth_asia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//earth_asia.png)
+- ![ecuador](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ecuador.png)
+- ![egg](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//egg.png)
+- ![eggplant](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eggplant.png)
+- ![egypt](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//egypt.png)
+- ![eight](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eight.png)
+- ![eight_pointed_black_star](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eight_pointed_black_star.png)
+- ![eight_spoked_asterisk](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eight_spoked_asterisk.png)
+- ![eject_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eject_button.png)
+- ![el_salvador](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//el_salvador.png)
+- ![electric_plug](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//electric_plug.png)
+- ![electron](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//electron.png)
+- ![elephant](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//elephant.png)
+- ![elevator](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//elevator.png)
+- ![elf](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//elf.png)
+- ![elf_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//elf_man.png)
+- ![elf_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//elf_woman.png)
+- ![email](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//email.png)
+- ![empty_nest](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//empty_nest.png)
+- ![end](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//end.png)
+- ![england](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//england.png)
+- ![envelope](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//envelope.png)
+- ![envelope_with_arrow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//envelope_with_arrow.png)
+- ![equatorial_guinea](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//equatorial_guinea.png)
+- ![eritrea](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eritrea.png)
+- ![es](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//es.png)
+- ![estonia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//estonia.png)
+- ![ethiopia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ethiopia.png)
+- ![eu](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eu.png)
+- ![euro](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//euro.png)
+- ![european_castle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//european_castle.png)
+- ![european_post_office](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//european_post_office.png)
+- ![european_union](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//european_union.png)
+- ![evergreen_tree](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//evergreen_tree.png)
+- ![exclamation](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//exclamation.png)
+- ![exploding_head](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//exploding_head.png)
+- ![expressionless](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//expressionless.png)
+- ![eye](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eye.png)
+- ![eye_speech_bubble](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eye_speech_bubble.png)
+- ![eyeglasses](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eyeglasses.png)
+- ![eyes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//eyes.png)
+- ![face_exhaling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//face_exhaling.png)
+- ![face_holding_back_tears](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//face_holding_back_tears.png)
+- ![face_in_clouds](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//face_in_clouds.png)
+- ![face_with_diagonal_mouth](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//face_with_diagonal_mouth.png)
+- ![face_with_head_bandage](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//face_with_head_bandage.png)
+- ![face_with_open_eyes_and_hand_over_mouth](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//face_with_open_eyes_and_hand_over_mouth.png)
+- ![face_with_peeking_eye](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//face_with_peeking_eye.png)
+- ![face_with_spiral_eyes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//face_with_spiral_eyes.png)
+- ![face_with_thermometer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//face_with_thermometer.png)
+- ![facepalm](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//facepalm.png)
+- ![facepunch](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//facepunch.png)
+- ![factory](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//factory.png)
+- ![factory_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//factory_worker.png)
+- ![fairy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fairy.png)
+- ![fairy_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fairy_man.png)
+- ![fairy_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fairy_woman.png)
+- ![falafel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//falafel.png)
+- ![falkland_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//falkland_islands.png)
+- ![fallen_leaf](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fallen_leaf.png)
+- ![family](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family.png)
+- ![family_man_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_boy.png)
+- ![family_man_boy_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_boy_boy.png)
+- ![family_man_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_girl.png)
+- ![family_man_girl_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_girl_boy.png)
+- ![family_man_girl_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_girl_girl.png)
+- ![family_man_man_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_man_boy.png)
+- ![family_man_man_boy_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_man_boy_boy.png)
+- ![family_man_man_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_man_girl.png)
+- ![family_man_man_girl_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_man_girl_boy.png)
+- ![family_man_man_girl_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_man_girl_girl.png)
+- ![family_man_woman_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_woman_boy.png)
+- ![family_man_woman_boy_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_woman_boy_boy.png)
+- ![family_man_woman_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_woman_girl.png)
+- ![family_man_woman_girl_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_woman_girl_boy.png)
+- ![family_man_woman_girl_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_man_woman_girl_girl.png)
+- ![family_woman_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_boy.png)
+- ![family_woman_boy_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_boy_boy.png)
+- ![family_woman_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_girl.png)
+- ![family_woman_girl_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_girl_boy.png)
+- ![family_woman_girl_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_girl_girl.png)
+- ![family_woman_woman_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_woman_boy.png)
+- ![family_woman_woman_boy_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_woman_boy_boy.png)
+- ![family_woman_woman_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_woman_girl.png)
+- ![family_woman_woman_girl_boy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_woman_girl_boy.png)
+- ![family_woman_woman_girl_girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//family_woman_woman_girl_girl.png)
+- ![farmer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//farmer.png)
+- ![faroe_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//faroe_islands.png)
+- ![fast_forward](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fast_forward.png)
+- ![fax](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fax.png)
+- ![fearful](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fearful.png)
+- ![feather](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//feather.png)
+- ![feelsgood](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//feelsgood.png)
+- ![feet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//feet.png)
+- ![female_detective](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//female_detective.png)
+- ![female_sign](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//female_sign.png)
+- ![ferris_wheel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ferris_wheel.png)
+- ![ferry](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ferry.png)
+- ![field_hockey](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//field_hockey.png)
+- ![fiji](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fiji.png)
+- ![file_cabinet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//file_cabinet.png)
+- ![file_folder](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//file_folder.png)
+- ![film_projector](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//film_projector.png)
+- ![film_strip](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//film_strip.png)
+- ![finland](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//finland.png)
+- ![finnadie](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//finnadie.png)
+- ![fire](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fire.png)
+- ![fire_engine](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fire_engine.png)
+- ![fire_extinguisher](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fire_extinguisher.png)
+- ![firecracker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//firecracker.png)
+- ![firefighter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//firefighter.png)
+- ![fireworks](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fireworks.png)
+- ![first_quarter_moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//first_quarter_moon.png)
+- ![first_quarter_moon_with_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//first_quarter_moon_with_face.png)
+- ![fish](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fish.png)
+- ![fish_cake](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fish_cake.png)
+- ![fishing_pole_and_fish](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fishing_pole_and_fish.png)
+- ![fishsticks](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fishsticks.png)
+- ![fist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fist.png)
+- ![fist_left](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fist_left.png)
+- ![fist_oncoming](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fist_oncoming.png)
+- ![fist_raised](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fist_raised.png)
+- ![fist_right](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fist_right.png)
+- ![five](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//five.png)
+- ![flags](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flags.png)
+- ![flamingo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flamingo.png)
+- ![flashlight](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flashlight.png)
+- ![flat_shoe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flat_shoe.png)
+- ![flatbread](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flatbread.png)
+- ![fleur_de_lis](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fleur_de_lis.png)
+- ![flight_arrival](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flight_arrival.png)
+- ![flight_departure](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flight_departure.png)
+- ![flipper](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flipper.png)
+- ![floppy_disk](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//floppy_disk.png)
+- ![flower_playing_cards](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flower_playing_cards.png)
+- ![flushed](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flushed.png)
+- ![flute](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flute.png)
+- ![fly](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fly.png)
+- ![flying_disc](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flying_disc.png)
+- ![flying_saucer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//flying_saucer.png)
+- ![fog](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fog.png)
+- ![foggy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//foggy.png)
+- ![folding_hand_fan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//folding_hand_fan.png)
+- ![fondue](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fondue.png)
+- ![foot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//foot.png)
+- ![football](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//football.png)
+- ![footprints](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//footprints.png)
+- ![fork_and_knife](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fork_and_knife.png)
+- ![fortune_cookie](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fortune_cookie.png)
+- ![fountain](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fountain.png)
+- ![fountain_pen](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fountain_pen.png)
+- ![four](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//four.png)
+- ![four_leaf_clover](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//four_leaf_clover.png)
+- ![fox_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fox_face.png)
+- ![fr](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fr.png)
+- ![framed_picture](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//framed_picture.png)
+- ![free](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//free.png)
+- ![french_guiana](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//french_guiana.png)
+- ![french_polynesia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//french_polynesia.png)
+- ![french_southern_territories](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//french_southern_territories.png)
+- ![fried_egg](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fried_egg.png)
+- ![fried_shrimp](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fried_shrimp.png)
+- ![fries](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fries.png)
+- ![frog](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//frog.png)
+- ![frowning](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//frowning.png)
+- ![frowning_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//frowning_face.png)
+- ![frowning_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//frowning_man.png)
+- ![frowning_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//frowning_person.png)
+- ![frowning_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//frowning_woman.png)
+- ![fu](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fu.png)
+- ![fuelpump](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//fuelpump.png)
+- ![full_moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//full_moon.png)
+- ![full_moon_with_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//full_moon_with_face.png)
+- ![funeral_urn](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//funeral_urn.png)
+- ![gabon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gabon.png)
+- ![gambia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gambia.png)
+- ![game_die](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//game_die.png)
+- ![garlic](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//garlic.png)
+- ![gb](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gb.png)
+- ![gear](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gear.png)
+- ![gem](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gem.png)
+- ![gemini](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gemini.png)
+- ![genie](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//genie.png)
+- ![genie_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//genie_man.png)
+- ![genie_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//genie_woman.png)
+- ![georgia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//georgia.png)
+- ![ghana](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ghana.png)
+- ![ghost](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ghost.png)
+- ![gibraltar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gibraltar.png)
+- ![gift](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gift.png)
+- ![gift_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gift_heart.png)
+- ![ginger_root](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ginger_root.png)
+- ![giraffe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//giraffe.png)
+- ![girl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//girl.png)
+- ![globe_with_meridians](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//globe_with_meridians.png)
+- ![gloves](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gloves.png)
+- ![goal_net](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//goal_net.png)
+- ![goat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//goat.png)
+- ![goberserk](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//goberserk.png)
+- ![godmode](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//godmode.png)
+- ![goggles](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//goggles.png)
+- ![golf](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//golf.png)
+- ![golfing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//golfing.png)
+- ![golfing_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//golfing_man.png)
+- ![golfing_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//golfing_woman.png)
+- ![goose](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//goose.png)
+- ![gorilla](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gorilla.png)
+- ![grapes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//grapes.png)
+- ![greece](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//greece.png)
+- ![green_apple](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//green_apple.png)
+- ![green_book](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//green_book.png)
+- ![green_circle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//green_circle.png)
+- ![green_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//green_heart.png)
+- ![green_salad](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//green_salad.png)
+- ![green_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//green_square.png)
+- ![greenland](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//greenland.png)
+- ![grenada](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//grenada.png)
+- ![grey_exclamation](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//grey_exclamation.png)
+- ![grey_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//grey_heart.png)
+- ![grey_question](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//grey_question.png)
+- ![grimacing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//grimacing.png)
+- ![grin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//grin.png)
+- ![grinning](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//grinning.png)
+- ![guadeloupe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guadeloupe.png)
+- ![guam](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guam.png)
+- ![guard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guard.png)
+- ![guardsman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guardsman.png)
+- ![guardswoman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guardswoman.png)
+- ![guatemala](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guatemala.png)
+- ![guernsey](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guernsey.png)
+- ![guide_dog](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guide_dog.png)
+- ![guinea](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guinea.png)
+- ![guinea_bissau](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guinea_bissau.png)
+- ![guitar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guitar.png)
+- ![gun](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//gun.png)
+- ![guyana](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//guyana.png)
+- ![hair_pick](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hair_pick.png)
+- ![haircut](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//haircut.png)
+- ![haircut_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//haircut_man.png)
+- ![haircut_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//haircut_woman.png)
+- ![haiti](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//haiti.png)
+- ![hamburger](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hamburger.png)
+- ![hammer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hammer.png)
+- ![hammer_and_pick](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hammer_and_pick.png)
+- ![hammer_and_wrench](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hammer_and_wrench.png)
+- ![hamsa](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hamsa.png)
+- ![hamster](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hamster.png)
+- ![hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hand.png)
+- ![hand_over_mouth](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hand_over_mouth.png)
+- ![hand_with_index_finger_and_thumb_crossed](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hand_with_index_finger_and_thumb_crossed.png)
+- ![handbag](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//handbag.png)
+- ![handball_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//handball_person.png)
+- ![handshake](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//handshake.png)
+- ![hankey](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hankey.png)
+- ![hash](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hash.png)
+- ![hatched_chick](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hatched_chick.png)
+- ![hatching_chick](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hatching_chick.png)
+- ![headphones](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//headphones.png)
+- ![headstone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//headstone.png)
+- ![health_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//health_worker.png)
+- ![hear_no_evil](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hear_no_evil.png)
+- ![heard_mcdonald_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heard_mcdonald_islands.png)
+- ![heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heart.png)
+- ![heart_decoration](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heart_decoration.png)
+- ![heart_eyes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heart_eyes.png)
+- ![heart_eyes_cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heart_eyes_cat.png)
+- ![heart_hands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heart_hands.png)
+- ![heart_on_fire](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heart_on_fire.png)
+- ![heartbeat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heartbeat.png)
+- ![heartpulse](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heartpulse.png)
+- ![hearts](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hearts.png)
+- ![heavy_check_mark](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heavy_check_mark.png)
+- ![heavy_division_sign](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heavy_division_sign.png)
+- ![heavy_dollar_sign](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heavy_dollar_sign.png)
+- ![heavy_equals_sign](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heavy_equals_sign.png)
+- ![heavy_exclamation_mark](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heavy_exclamation_mark.png)
+- ![heavy_heart_exclamation](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heavy_heart_exclamation.png)
+- ![heavy_minus_sign](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heavy_minus_sign.png)
+- ![heavy_multiplication_x](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heavy_multiplication_x.png)
+- ![heavy_plus_sign](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//heavy_plus_sign.png)
+- ![hedgehog](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hedgehog.png)
+- ![helicopter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//helicopter.png)
+- ![herb](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//herb.png)
+- ![hibiscus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hibiscus.png)
+- ![high_brightness](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//high_brightness.png)
+- ![high_heel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//high_heel.png)
+- ![hiking_boot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hiking_boot.png)
+- ![hindu_temple](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hindu_temple.png)
+- ![hippopotamus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hippopotamus.png)
+- ![hocho](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hocho.png)
+- ![hole](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hole.png)
+- ![honduras](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//honduras.png)
+- ![honey_pot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//honey_pot.png)
+- ![honeybee](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//honeybee.png)
+- ![hong_kong](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hong_kong.png)
+- ![hook](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hook.png)
+- ![horse](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//horse.png)
+- ![horse_racing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//horse_racing.png)
+- ![hospital](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hospital.png)
+- ![hot_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hot_face.png)
+- ![hot_pepper](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hot_pepper.png)
+- ![hotdog](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hotdog.png)
+- ![hotel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hotel.png)
+- ![hotsprings](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hotsprings.png)
+- ![hourglass](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hourglass.png)
+- ![hourglass_flowing_sand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hourglass_flowing_sand.png)
+- ![house](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//house.png)
+- ![house_with_garden](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//house_with_garden.png)
+- ![houses](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//houses.png)
+- ![hugs](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hugs.png)
+- ![hungary](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hungary.png)
+- ![hurtrealbad](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hurtrealbad.png)
+- ![hushed](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hushed.png)
+- ![hut](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hut.png)
+- ![hyacinth](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//hyacinth.png)
+- ![ice_cream](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ice_cream.png)
+- ![ice_cube](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ice_cube.png)
+- ![ice_hockey](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ice_hockey.png)
+- ![ice_skate](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ice_skate.png)
+- ![icecream](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//icecream.png)
+- ![iceland](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//iceland.png)
+- ![id](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//id.png)
+- ![identification_card](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//identification_card.png)
+- ![ideograph_advantage](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ideograph_advantage.png)
+- ![imp](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//imp.png)
+- ![inbox_tray](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//inbox_tray.png)
+- ![incoming_envelope](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//incoming_envelope.png)
+- ![index_pointing_at_the_viewer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//index_pointing_at_the_viewer.png)
+- ![india](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//india.png)
+- ![indonesia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//indonesia.png)
+- ![infinity](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//infinity.png)
+- ![information_desk_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//information_desk_person.png)
+- ![information_source](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//information_source.png)
+- ![innocent](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//innocent.png)
+- ![interrobang](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//interrobang.png)
+- ![iphone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//iphone.png)
+- ![iran](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//iran.png)
+- ![iraq](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//iraq.png)
+- ![ireland](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ireland.png)
+- ![isle_of_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//isle_of_man.png)
+- ![israel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//israel.png)
+- ![it](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//it.png)
+- ![izakaya_lantern](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//izakaya_lantern.png)
+- ![jack_o_lantern](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//jack_o_lantern.png)
+- ![jamaica](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//jamaica.png)
+- ![japan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//japan.png)
+- ![japanese_castle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//japanese_castle.png)
+- ![japanese_goblin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//japanese_goblin.png)
+- ![japanese_ogre](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//japanese_ogre.png)
+- ![jar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//jar.png)
+- ![jeans](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//jeans.png)
+- ![jellyfish](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//jellyfish.png)
+- ![jersey](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//jersey.png)
+- ![jigsaw](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//jigsaw.png)
+- ![jordan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//jordan.png)
+- ![joy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//joy.png)
+- ![joy_cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//joy_cat.png)
+- ![joystick](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//joystick.png)
+- ![jp](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//jp.png)
+- ![judge](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//judge.png)
+- ![juggling_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//juggling_person.png)
+- ![kaaba](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kaaba.png)
+- ![kangaroo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kangaroo.png)
+- ![kazakhstan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kazakhstan.png)
+- ![kenya](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kenya.png)
+- ![key](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//key.png)
+- ![keyboard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//keyboard.png)
+- ![keycap_ten](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//keycap_ten.png)
+- ![khanda](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//khanda.png)
+- ![kick_scooter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kick_scooter.png)
+- ![kimono](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kimono.png)
+- ![kiribati](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kiribati.png)
+- ![kiss](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kiss.png)
+- ![kissing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kissing.png)
+- ![kissing_cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kissing_cat.png)
+- ![kissing_closed_eyes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kissing_closed_eyes.png)
+- ![kissing_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kissing_heart.png)
+- ![kissing_smiling_eyes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kissing_smiling_eyes.png)
+- ![kite](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kite.png)
+- ![kiwi_fruit](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kiwi_fruit.png)
+- ![kneeling_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kneeling_man.png)
+- ![kneeling_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kneeling_person.png)
+- ![kneeling_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kneeling_woman.png)
+- ![knife](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//knife.png)
+- ![knot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//knot.png)
+- ![koala](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//koala.png)
+- ![koko](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//koko.png)
+- ![kosovo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kosovo.png)
+- ![kr](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kr.png)
+- ![kuwait](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kuwait.png)
+- ![kyrgyzstan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//kyrgyzstan.png)
+- ![lab_coat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lab_coat.png)
+- ![label](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//label.png)
+- ![lacrosse](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lacrosse.png)
+- ![ladder](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ladder.png)
+- ![lady_beetle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lady_beetle.png)
+- ![lantern](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lantern.png)
+- ![laos](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//laos.png)
+- ![large_blue_circle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//large_blue_circle.png)
+- ![large_blue_diamond](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//large_blue_diamond.png)
+- ![large_orange_diamond](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//large_orange_diamond.png)
+- ![last_quarter_moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//last_quarter_moon.png)
+- ![last_quarter_moon_with_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//last_quarter_moon_with_face.png)
+- ![latin_cross](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//latin_cross.png)
+- ![latvia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//latvia.png)
+- ![laughing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//laughing.png)
+- ![leafy_green](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//leafy_green.png)
+- ![leaves](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//leaves.png)
+- ![lebanon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lebanon.png)
+- ![ledger](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ledger.png)
+- ![left_luggage](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//left_luggage.png)
+- ![left_right_arrow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//left_right_arrow.png)
+- ![left_speech_bubble](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//left_speech_bubble.png)
+- ![leftwards_arrow_with_hook](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//leftwards_arrow_with_hook.png)
+- ![leftwards_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//leftwards_hand.png)
+- ![leftwards_pushing_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//leftwards_pushing_hand.png)
+- ![leg](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//leg.png)
+- ![lemon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lemon.png)
+- ![leo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//leo.png)
+- ![leopard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//leopard.png)
+- ![lesotho](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lesotho.png)
+- ![level_slider](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//level_slider.png)
+- ![liberia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//liberia.png)
+- ![libra](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//libra.png)
+- ![libya](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//libya.png)
+- ![liechtenstein](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//liechtenstein.png)
+- ![light_blue_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//light_blue_heart.png)
+- ![light_rail](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//light_rail.png)
+- ![link](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//link.png)
+- ![lion](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lion.png)
+- ![lips](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lips.png)
+- ![lipstick](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lipstick.png)
+- ![lithuania](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lithuania.png)
+- ![lizard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lizard.png)
+- ![llama](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//llama.png)
+- ![lobster](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lobster.png)
+- ![lock](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lock.png)
+- ![lock_with_ink_pen](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lock_with_ink_pen.png)
+- ![lollipop](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lollipop.png)
+- ![long_drum](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//long_drum.png)
+- ![loop](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//loop.png)
+- ![lotion_bottle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lotion_bottle.png)
+- ![lotus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lotus.png)
+- ![lotus_position](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lotus_position.png)
+- ![lotus_position_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lotus_position_man.png)
+- ![lotus_position_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lotus_position_woman.png)
+- ![loud_sound](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//loud_sound.png)
+- ![loudspeaker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//loudspeaker.png)
+- ![love_hotel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//love_hotel.png)
+- ![love_letter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//love_letter.png)
+- ![love_you_gesture](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//love_you_gesture.png)
+- ![low_battery](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//low_battery.png)
+- ![low_brightness](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//low_brightness.png)
+- ![luggage](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//luggage.png)
+- ![lungs](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lungs.png)
+- ![luxembourg](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//luxembourg.png)
+- ![lying_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//lying_face.png)
+- ![m](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//m.png)
+- ![macau](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//macau.png)
+- ![macedonia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//macedonia.png)
+- ![madagascar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//madagascar.png)
+- ![mag](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mag.png)
+- ![mag_right](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mag_right.png)
+- ![mage](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mage.png)
+- ![mage_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mage_man.png)
+- ![mage_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mage_woman.png)
+- ![magic_wand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//magic_wand.png)
+- ![magnet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//magnet.png)
+- ![mahjong](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mahjong.png)
+- ![mailbox](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mailbox.png)
+- ![mailbox_closed](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mailbox_closed.png)
+- ![mailbox_with_mail](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mailbox_with_mail.png)
+- ![mailbox_with_no_mail](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mailbox_with_no_mail.png)
+- ![malawi](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//malawi.png)
+- ![malaysia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//malaysia.png)
+- ![maldives](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//maldives.png)
+- ![male_detective](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//male_detective.png)
+- ![male_sign](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//male_sign.png)
+- ![mali](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mali.png)
+- ![malta](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//malta.png)
+- ![mammoth](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mammoth.png)
+- ![man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man.png)
+- ![man_artist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_artist.png)
+- ![man_astronaut](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_astronaut.png)
+- ![man_beard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_beard.png)
+- ![man_cartwheeling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_cartwheeling.png)
+- ![man_cook](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_cook.png)
+- ![man_dancing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_dancing.png)
+- ![man_facepalming](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_facepalming.png)
+- ![man_factory_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_factory_worker.png)
+- ![man_farmer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_farmer.png)
+- ![man_feeding_baby](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_feeding_baby.png)
+- ![man_firefighter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_firefighter.png)
+- ![man_health_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_health_worker.png)
+- ![man_in_manual_wheelchair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_in_manual_wheelchair.png)
+- ![man_in_motorized_wheelchair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_in_motorized_wheelchair.png)
+- ![man_in_tuxedo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_in_tuxedo.png)
+- ![man_judge](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_judge.png)
+- ![man_juggling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_juggling.png)
+- ![man_mechanic](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_mechanic.png)
+- ![man_office_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_office_worker.png)
+- ![man_pilot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_pilot.png)
+- ![man_playing_handball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_playing_handball.png)
+- ![man_playing_water_polo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_playing_water_polo.png)
+- ![man_scientist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_scientist.png)
+- ![man_shrugging](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_shrugging.png)
+- ![man_singer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_singer.png)
+- ![man_student](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_student.png)
+- ![man_teacher](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_teacher.png)
+- ![man_technologist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_technologist.png)
+- ![man_with_gua_pi_mao](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_with_gua_pi_mao.png)
+- ![man_with_probing_cane](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_with_probing_cane.png)
+- ![man_with_turban](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_with_turban.png)
+- ![man_with_veil](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//man_with_veil.png)
+- ![mandarin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mandarin.png)
+- ![mango](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mango.png)
+- ![mans_shoe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mans_shoe.png)
+- ![mantelpiece_clock](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mantelpiece_clock.png)
+- ![manual_wheelchair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//manual_wheelchair.png)
+- ![maple_leaf](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//maple_leaf.png)
+- ![maracas](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//maracas.png)
+- ![marshall_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//marshall_islands.png)
+- ![martial_arts_uniform](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//martial_arts_uniform.png)
+- ![martinique](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//martinique.png)
+- ![mask](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mask.png)
+- ![massage](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//massage.png)
+- ![massage_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//massage_man.png)
+- ![massage_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//massage_woman.png)
+- ![mate](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mate.png)
+- ![mauritania](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mauritania.png)
+- ![mauritius](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mauritius.png)
+- ![mayotte](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mayotte.png)
+- ![meat_on_bone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//meat_on_bone.png)
+- ![mechanic](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mechanic.png)
+- ![mechanical_arm](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mechanical_arm.png)
+- ![mechanical_leg](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mechanical_leg.png)
+- ![medal_military](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//medal_military.png)
+- ![medal_sports](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//medal_sports.png)
+- ![medical_symbol](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//medical_symbol.png)
+- ![mega](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mega.png)
+- ![melon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//melon.png)
+- ![melting_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//melting_face.png)
+- ![memo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//memo.png)
+- ![men_wrestling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//men_wrestling.png)
+- ![mending_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mending_heart.png)
+- ![menorah](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//menorah.png)
+- ![mens](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mens.png)
+- ![mermaid](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mermaid.png)
+- ![merman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//merman.png)
+- ![merperson](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//merperson.png)
+- ![metal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//metal.png)
+- ![metro](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//metro.png)
+- ![mexico](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mexico.png)
+- ![microbe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//microbe.png)
+- ![micronesia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//micronesia.png)
+- ![microphone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//microphone.png)
+- ![microscope](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//microscope.png)
+- ![middle_finger](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//middle_finger.png)
+- ![military_helmet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//military_helmet.png)
+- ![milk_glass](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//milk_glass.png)
+- ![milky_way](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//milky_way.png)
+- ![minibus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//minibus.png)
+- ![minidisc](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//minidisc.png)
+- ![mirror](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mirror.png)
+- ![mirror_ball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mirror_ball.png)
+- ![mobile_phone_off](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mobile_phone_off.png)
+- ![moldova](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//moldova.png)
+- ![monaco](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//monaco.png)
+- ![money_mouth_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//money_mouth_face.png)
+- ![money_with_wings](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//money_with_wings.png)
+- ![moneybag](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//moneybag.png)
+- ![mongolia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mongolia.png)
+- ![monkey](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//monkey.png)
+- ![monkey_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//monkey_face.png)
+- ![monocle_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//monocle_face.png)
+- ![monorail](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//monorail.png)
+- ![montenegro](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//montenegro.png)
+- ![montserrat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//montserrat.png)
+- ![moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//moon.png)
+- ![moon_cake](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//moon_cake.png)
+- ![moose](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//moose.png)
+- ![morocco](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//morocco.png)
+- ![mortar_board](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mortar_board.png)
+- ![mosque](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mosque.png)
+- ![mosquito](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mosquito.png)
+- ![motor_boat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//motor_boat.png)
+- ![motor_scooter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//motor_scooter.png)
+- ![motorcycle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//motorcycle.png)
+- ![motorized_wheelchair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//motorized_wheelchair.png)
+- ![motorway](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//motorway.png)
+- ![mount_fuji](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mount_fuji.png)
+- ![mountain](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mountain.png)
+- ![mountain_bicyclist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mountain_bicyclist.png)
+- ![mountain_biking_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mountain_biking_man.png)
+- ![mountain_biking_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mountain_biking_woman.png)
+- ![mountain_cableway](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mountain_cableway.png)
+- ![mountain_railway](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mountain_railway.png)
+- ![mountain_snow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mountain_snow.png)
+- ![mouse](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mouse.png)
+- ![mouse2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mouse2.png)
+- ![mouse_trap](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mouse_trap.png)
+- ![movie_camera](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//movie_camera.png)
+- ![moyai](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//moyai.png)
+- ![mozambique](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mozambique.png)
+- ![mrs_claus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mrs_claus.png)
+- ![muscle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//muscle.png)
+- ![mushroom](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mushroom.png)
+- ![musical_keyboard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//musical_keyboard.png)
+- ![musical_note](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//musical_note.png)
+- ![musical_score](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//musical_score.png)
+- ![mute](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mute.png)
+- ![mx_claus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//mx_claus.png)
+- ![myanmar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//myanmar.png)
+- ![nail_care](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nail_care.png)
+- ![name_badge](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//name_badge.png)
+- ![namibia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//namibia.png)
+- ![national_park](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//national_park.png)
+- ![nauru](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nauru.png)
+- ![nauseated_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nauseated_face.png)
+- ![nazar_amulet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nazar_amulet.png)
+- ![neckbeard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//neckbeard.png)
+- ![necktie](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//necktie.png)
+- ![negative_squared_cross_mark](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//negative_squared_cross_mark.png)
+- ![nepal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nepal.png)
+- ![nerd_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nerd_face.png)
+- ![nest_with_eggs](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nest_with_eggs.png)
+- ![nesting_dolls](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nesting_dolls.png)
+- ![netherlands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//netherlands.png)
+- ![neutral_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//neutral_face.png)
+- ![new](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//new.png)
+- ![new_caledonia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//new_caledonia.png)
+- ![new_moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//new_moon.png)
+- ![new_moon_with_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//new_moon_with_face.png)
+- ![new_zealand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//new_zealand.png)
+- ![newspaper](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//newspaper.png)
+- ![newspaper_roll](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//newspaper_roll.png)
+- ![next_track_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//next_track_button.png)
+- ![ng](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ng.png)
+- ![ng_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ng_man.png)
+- ![ng_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ng_woman.png)
+- ![nicaragua](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nicaragua.png)
+- ![niger](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//niger.png)
+- ![nigeria](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nigeria.png)
+- ![night_with_stars](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//night_with_stars.png)
+- ![nine](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nine.png)
+- ![ninja](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ninja.png)
+- ![niue](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//niue.png)
+- ![no_bell](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_bell.png)
+- ![no_bicycles](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_bicycles.png)
+- ![no_entry](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_entry.png)
+- ![no_entry_sign](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_entry_sign.png)
+- ![no_good](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_good.png)
+- ![no_good_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_good_man.png)
+- ![no_good_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_good_woman.png)
+- ![no_mobile_phones](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_mobile_phones.png)
+- ![no_mouth](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_mouth.png)
+- ![no_pedestrians](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_pedestrians.png)
+- ![no_smoking](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//no_smoking.png)
+- ![non-potable_water](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//non-potable_water.png)
+- ![norfolk_island](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//norfolk_island.png)
+- ![north_korea](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//north_korea.png)
+- ![northern_mariana_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//northern_mariana_islands.png)
+- ![norway](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//norway.png)
+- ![nose](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nose.png)
+- ![notebook](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//notebook.png)
+- ![notebook_with_decorative_cover](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//notebook_with_decorative_cover.png)
+- ![notes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//notes.png)
+- ![nut_and_bolt](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//nut_and_bolt.png)
+- ![o](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//o.png)
+- ![o2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//o2.png)
+- ![ocean](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ocean.png)
+- ![octocat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//octocat.png)
+- ![octopus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//octopus.png)
+- ![oden](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//oden.png)
+- ![office](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//office.png)
+- ![office_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//office_worker.png)
+- ![oil_drum](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//oil_drum.png)
+- ![ok](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ok.png)
+- ![ok_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ok_hand.png)
+- ![ok_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ok_man.png)
+- ![ok_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ok_person.png)
+- ![ok_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ok_woman.png)
+- ![old_key](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//old_key.png)
+- ![older_adult](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//older_adult.png)
+- ![older_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//older_man.png)
+- ![older_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//older_woman.png)
+- ![olive](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//olive.png)
+- ![om](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//om.png)
+- ![oman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//oman.png)
+- ![on](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//on.png)
+- ![oncoming_automobile](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//oncoming_automobile.png)
+- ![oncoming_bus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//oncoming_bus.png)
+- ![oncoming_police_car](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//oncoming_police_car.png)
+- ![oncoming_taxi](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//oncoming_taxi.png)
+- ![one](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//one.png)
+- ![one_piece_swimsuit](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//one_piece_swimsuit.png)
+- ![onion](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//onion.png)
+- ![open_book](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//open_book.png)
+- ![open_file_folder](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//open_file_folder.png)
+- ![open_hands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//open_hands.png)
+- ![open_mouth](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//open_mouth.png)
+- ![open_umbrella](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//open_umbrella.png)
+- ![ophiuchus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ophiuchus.png)
+- ![orange](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//orange.png)
+- ![orange_book](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//orange_book.png)
+- ![orange_circle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//orange_circle.png)
+- ![orange_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//orange_heart.png)
+- ![orange_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//orange_square.png)
+- ![orangutan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//orangutan.png)
+- ![orthodox_cross](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//orthodox_cross.png)
+- ![otter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//otter.png)
+- ![outbox_tray](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//outbox_tray.png)
+- ![owl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//owl.png)
+- ![ox](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ox.png)
+- ![oyster](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//oyster.png)
+- ![package](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//package.png)
+- ![page_facing_up](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//page_facing_up.png)
+- ![page_with_curl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//page_with_curl.png)
+- ![pager](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pager.png)
+- ![paintbrush](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//paintbrush.png)
+- ![pakistan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pakistan.png)
+- ![palau](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//palau.png)
+- ![palestinian_territories](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//palestinian_territories.png)
+- ![palm_down_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//palm_down_hand.png)
+- ![palm_tree](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//palm_tree.png)
+- ![palm_up_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//palm_up_hand.png)
+- ![palms_up_together](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//palms_up_together.png)
+- ![panama](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//panama.png)
+- ![pancakes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pancakes.png)
+- ![panda_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//panda_face.png)
+- ![paperclip](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//paperclip.png)
+- ![paperclips](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//paperclips.png)
+- ![papua_new_guinea](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//papua_new_guinea.png)
+- ![parachute](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//parachute.png)
+- ![paraguay](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//paraguay.png)
+- ![parasol_on_ground](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//parasol_on_ground.png)
+- ![parking](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//parking.png)
+- ![parrot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//parrot.png)
+- ![part_alternation_mark](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//part_alternation_mark.png)
+- ![partly_sunny](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//partly_sunny.png)
+- ![partying_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//partying_face.png)
+- ![passenger_ship](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//passenger_ship.png)
+- ![passport_control](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//passport_control.png)
+- ![pause_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pause_button.png)
+- ![paw_prints](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//paw_prints.png)
+- ![pea_pod](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pea_pod.png)
+- ![peace_symbol](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//peace_symbol.png)
+- ![peach](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//peach.png)
+- ![peacock](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//peacock.png)
+- ![peanuts](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//peanuts.png)
+- ![pear](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pear.png)
+- ![pen](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pen.png)
+- ![pencil](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pencil.png)
+- ![pencil2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pencil2.png)
+- ![penguin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//penguin.png)
+- ![pensive](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pensive.png)
+- ![people_holding_hands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//people_holding_hands.png)
+- ![people_hugging](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//people_hugging.png)
+- ![performing_arts](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//performing_arts.png)
+- ![persevere](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//persevere.png)
+- ![person_bald](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_bald.png)
+- ![person_curly_hair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_curly_hair.png)
+- ![person_feeding_baby](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_feeding_baby.png)
+- ![person_fencing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_fencing.png)
+- ![person_in_manual_wheelchair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_in_manual_wheelchair.png)
+- ![person_in_motorized_wheelchair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_in_motorized_wheelchair.png)
+- ![person_in_tuxedo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_in_tuxedo.png)
+- ![person_red_hair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_red_hair.png)
+- ![person_white_hair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_white_hair.png)
+- ![person_with_crown](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_with_crown.png)
+- ![person_with_probing_cane](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_with_probing_cane.png)
+- ![person_with_turban](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_with_turban.png)
+- ![person_with_veil](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//person_with_veil.png)
+- ![peru](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//peru.png)
+- ![petri_dish](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//petri_dish.png)
+- ![philippines](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//philippines.png)
+- ![phone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//phone.png)
+- ![pick](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pick.png)
+- ![pickup_truck](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pickup_truck.png)
+- ![pie](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pie.png)
+- ![pig](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pig.png)
+- ![pig2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pig2.png)
+- ![pig_nose](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pig_nose.png)
+- ![pill](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pill.png)
+- ![pilot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pilot.png)
+- ![pinata](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pinata.png)
+- ![pinched_fingers](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pinched_fingers.png)
+- ![pinching_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pinching_hand.png)
+- ![pineapple](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pineapple.png)
+- ![ping_pong](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ping_pong.png)
+- ![pink_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pink_heart.png)
+- ![pirate_flag](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pirate_flag.png)
+- ![pisces](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pisces.png)
+- ![pitcairn_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pitcairn_islands.png)
+- ![pizza](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pizza.png)
+- ![placard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//placard.png)
+- ![place_of_worship](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//place_of_worship.png)
+- ![plate_with_cutlery](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//plate_with_cutlery.png)
+- ![play_or_pause_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//play_or_pause_button.png)
+- ![playground_slide](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//playground_slide.png)
+- ![pleading_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pleading_face.png)
+- ![plunger](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//plunger.png)
+- ![point_down](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//point_down.png)
+- ![point_left](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//point_left.png)
+- ![point_right](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//point_right.png)
+- ![point_up](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//point_up.png)
+- ![point_up_2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//point_up_2.png)
+- ![poland](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//poland.png)
+- ![polar_bear](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//polar_bear.png)
+- ![police_car](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//police_car.png)
+- ![police_officer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//police_officer.png)
+- ![policeman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//policeman.png)
+- ![policewoman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//policewoman.png)
+- ![poodle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//poodle.png)
+- ![poop](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//poop.png)
+- ![popcorn](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//popcorn.png)
+- ![portugal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//portugal.png)
+- ![post_office](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//post_office.png)
+- ![postal_horn](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//postal_horn.png)
+- ![postbox](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//postbox.png)
+- ![potable_water](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//potable_water.png)
+- ![potato](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//potato.png)
+- ![potted_plant](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//potted_plant.png)
+- ![pouch](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pouch.png)
+- ![poultry_leg](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//poultry_leg.png)
+- ![pound](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pound.png)
+- ![pouring_liquid](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pouring_liquid.png)
+- ![pout](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pout.png)
+- ![pouting_cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pouting_cat.png)
+- ![pouting_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pouting_face.png)
+- ![pouting_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pouting_man.png)
+- ![pouting_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pouting_woman.png)
+- ![pray](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pray.png)
+- ![prayer_beads](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//prayer_beads.png)
+- ![pregnant_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pregnant_man.png)
+- ![pregnant_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pregnant_person.png)
+- ![pregnant_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pregnant_woman.png)
+- ![pretzel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pretzel.png)
+- ![previous_track_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//previous_track_button.png)
+- ![prince](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//prince.png)
+- ![princess](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//princess.png)
+- ![printer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//printer.png)
+- ![probing_cane](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//probing_cane.png)
+- ![puerto_rico](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//puerto_rico.png)
+- ![punch](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//punch.png)
+- ![purple_circle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//purple_circle.png)
+- ![purple_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//purple_heart.png)
+- ![purple_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//purple_square.png)
+- ![purse](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//purse.png)
+- ![pushpin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//pushpin.png)
+- ![put_litter_in_its_place](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//put_litter_in_its_place.png)
+- ![qatar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//qatar.png)
+- ![question](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//question.png)
+- ![rabbit](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rabbit.png)
+- ![rabbit2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rabbit2.png)
+- ![raccoon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//raccoon.png)
+- ![racehorse](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//racehorse.png)
+- ![racing_car](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//racing_car.png)
+- ![radio](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//radio.png)
+- ![radio_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//radio_button.png)
+- ![radioactive](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//radioactive.png)
+- ![rage](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rage.png)
+- ![rage1](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rage1.png)
+- ![rage2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rage2.png)
+- ![rage3](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rage3.png)
+- ![rage4](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rage4.png)
+- ![railway_car](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//railway_car.png)
+- ![railway_track](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//railway_track.png)
+- ![rainbow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rainbow.png)
+- ![rainbow_flag](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rainbow_flag.png)
+- ![raised_back_of_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//raised_back_of_hand.png)
+- ![raised_eyebrow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//raised_eyebrow.png)
+- ![raised_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//raised_hand.png)
+- ![raised_hand_with_fingers_splayed](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//raised_hand_with_fingers_splayed.png)
+- ![raised_hands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//raised_hands.png)
+- ![raising_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//raising_hand.png)
+- ![raising_hand_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//raising_hand_man.png)
+- ![raising_hand_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//raising_hand_woman.png)
+- ![ram](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ram.png)
+- ![ramen](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ramen.png)
+- ![rat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rat.png)
+- ![razor](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//razor.png)
+- ![receipt](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//receipt.png)
+- ![record_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//record_button.png)
+- ![recycle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//recycle.png)
+- ![red_car](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//red_car.png)
+- ![red_circle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//red_circle.png)
+- ![red_envelope](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//red_envelope.png)
+- ![red_haired_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//red_haired_man.png)
+- ![red_haired_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//red_haired_woman.png)
+- ![red_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//red_square.png)
+- ![registered](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//registered.png)
+- ![relaxed](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//relaxed.png)
+- ![relieved](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//relieved.png)
+- ![reminder_ribbon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//reminder_ribbon.png)
+- ![repeat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//repeat.png)
+- ![repeat_one](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//repeat_one.png)
+- ![rescue_worker_helmet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rescue_worker_helmet.png)
+- ![restroom](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//restroom.png)
+- ![reunion](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//reunion.png)
+- ![revolving_hearts](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//revolving_hearts.png)
+- ![rewind](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rewind.png)
+- ![rhinoceros](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rhinoceros.png)
+- ![ribbon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ribbon.png)
+- ![rice](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rice.png)
+- ![rice_ball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rice_ball.png)
+- ![rice_cracker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rice_cracker.png)
+- ![rice_scene](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rice_scene.png)
+- ![right_anger_bubble](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//right_anger_bubble.png)
+- ![rightwards_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rightwards_hand.png)
+- ![rightwards_pushing_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rightwards_pushing_hand.png)
+- ![ring](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ring.png)
+- ![ring_buoy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ring_buoy.png)
+- ![ringed_planet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ringed_planet.png)
+- ![robot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//robot.png)
+- ![rock](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rock.png)
+- ![rocket](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rocket.png)
+- ![rofl](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rofl.png)
+- ![roll_eyes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//roll_eyes.png)
+- ![roll_of_paper](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//roll_of_paper.png)
+- ![roller_coaster](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//roller_coaster.png)
+- ![roller_skate](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//roller_skate.png)
+- ![romania](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//romania.png)
+- ![rooster](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rooster.png)
+- ![rose](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rose.png)
+- ![rosette](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rosette.png)
+- ![rotating_light](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rotating_light.png)
+- ![round_pushpin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//round_pushpin.png)
+- ![rowboat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rowboat.png)
+- ![rowing_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rowing_man.png)
+- ![rowing_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rowing_woman.png)
+- ![ru](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ru.png)
+- ![rugby_football](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rugby_football.png)
+- ![runner](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//runner.png)
+- ![running](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//running.png)
+- ![running_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//running_man.png)
+- ![running_shirt_with_sash](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//running_shirt_with_sash.png)
+- ![running_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//running_woman.png)
+- ![rwanda](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//rwanda.png)
+- ![sa](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sa.png)
+- ![safety_pin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//safety_pin.png)
+- ![safety_vest](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//safety_vest.png)
+- ![sagittarius](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sagittarius.png)
+- ![sailboat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sailboat.png)
+- ![sake](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sake.png)
+- ![salt](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//salt.png)
+- ![saluting_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//saluting_face.png)
+- ![samoa](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//samoa.png)
+- ![san_marino](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//san_marino.png)
+- ![sandal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sandal.png)
+- ![sandwich](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sandwich.png)
+- ![santa](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//santa.png)
+- ![sao_tome_principe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sao_tome_principe.png)
+- ![sari](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sari.png)
+- ![sassy_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sassy_man.png)
+- ![sassy_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sassy_woman.png)
+- ![satellite](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//satellite.png)
+- ![satisfied](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//satisfied.png)
+- ![saudi_arabia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//saudi_arabia.png)
+- ![sauna_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sauna_man.png)
+- ![sauna_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sauna_person.png)
+- ![sauna_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sauna_woman.png)
+- ![sauropod](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sauropod.png)
+- ![saxophone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//saxophone.png)
+- ![scarf](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//scarf.png)
+- ![school](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//school.png)
+- ![school_satchel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//school_satchel.png)
+- ![scientist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//scientist.png)
+- ![scissors](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//scissors.png)
+- ![scorpion](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//scorpion.png)
+- ![scorpius](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//scorpius.png)
+- ![scotland](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//scotland.png)
+- ![scream](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//scream.png)
+- ![scream_cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//scream_cat.png)
+- ![screwdriver](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//screwdriver.png)
+- ![scroll](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//scroll.png)
+- ![seal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//seal.png)
+- ![seat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//seat.png)
+- ![secret](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//secret.png)
+- ![see_no_evil](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//see_no_evil.png)
+- ![seedling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//seedling.png)
+- ![selfie](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//selfie.png)
+- ![senegal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//senegal.png)
+- ![serbia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//serbia.png)
+- ![service_dog](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//service_dog.png)
+- ![seven](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//seven.png)
+- ![sewing_needle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sewing_needle.png)
+- ![seychelles](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//seychelles.png)
+- ![shaking_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shaking_face.png)
+- ![shallow_pan_of_food](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shallow_pan_of_food.png)
+- ![shamrock](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shamrock.png)
+- ![shark](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shark.png)
+- ![shaved_ice](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shaved_ice.png)
+- ![sheep](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sheep.png)
+- ![shell](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shell.png)
+- ![shield](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shield.png)
+- ![shinto_shrine](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shinto_shrine.png)
+- ![ship](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ship.png)
+- ![shipit](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shipit.png)
+- ![shirt](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shirt.png)
+- ![shit](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shit.png)
+- ![shoe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shoe.png)
+- ![shopping](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shopping.png)
+- ![shopping_cart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shopping_cart.png)
+- ![shorts](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shorts.png)
+- ![shower](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shower.png)
+- ![shrimp](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shrimp.png)
+- ![shrug](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shrug.png)
+- ![shushing_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//shushing_face.png)
+- ![sierra_leone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sierra_leone.png)
+- ![signal_strength](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//signal_strength.png)
+- ![singapore](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//singapore.png)
+- ![singer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//singer.png)
+- ![sint_maarten](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sint_maarten.png)
+- ![six](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//six.png)
+- ![six_pointed_star](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//six_pointed_star.png)
+- ![skateboard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//skateboard.png)
+- ![ski](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ski.png)
+- ![skier](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//skier.png)
+- ![skull](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//skull.png)
+- ![skull_and_crossbones](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//skull_and_crossbones.png)
+- ![skunk](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//skunk.png)
+- ![sled](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sled.png)
+- ![sleeping](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sleeping.png)
+- ![sleeping_bed](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sleeping_bed.png)
+- ![sleepy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sleepy.png)
+- ![slightly_frowning_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//slightly_frowning_face.png)
+- ![slightly_smiling_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//slightly_smiling_face.png)
+- ![slot_machine](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//slot_machine.png)
+- ![sloth](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sloth.png)
+- ![slovakia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//slovakia.png)
+- ![slovenia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//slovenia.png)
+- ![small_airplane](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//small_airplane.png)
+- ![small_blue_diamond](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//small_blue_diamond.png)
+- ![small_orange_diamond](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//small_orange_diamond.png)
+- ![small_red_triangle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//small_red_triangle.png)
+- ![small_red_triangle_down](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//small_red_triangle_down.png)
+- ![smile](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smile.png)
+- ![smile_cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smile_cat.png)
+- ![smiley](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smiley.png)
+- ![smiley_cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smiley_cat.png)
+- ![smiling_face_with_tear](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smiling_face_with_tear.png)
+- ![smiling_face_with_three_hearts](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smiling_face_with_three_hearts.png)
+- ![smiling_imp](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smiling_imp.png)
+- ![smirk](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smirk.png)
+- ![smirk_cat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smirk_cat.png)
+- ![smoking](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//smoking.png)
+- ![snail](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//snail.png)
+- ![snake](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//snake.png)
+- ![sneezing_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sneezing_face.png)
+- ![snowboarder](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//snowboarder.png)
+- ![snowflake](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//snowflake.png)
+- ![snowman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//snowman.png)
+- ![snowman_with_snow](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//snowman_with_snow.png)
+- ![soap](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//soap.png)
+- ![sob](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sob.png)
+- ![soccer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//soccer.png)
+- ![socks](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//socks.png)
+- ![softball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//softball.png)
+- ![solomon_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//solomon_islands.png)
+- ![somalia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//somalia.png)
+- ![soon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//soon.png)
+- ![sos](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sos.png)
+- ![sound](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sound.png)
+- ![south_africa](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//south_africa.png)
+- ![south_georgia_south_sandwich_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//south_georgia_south_sandwich_islands.png)
+- ![south_sudan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//south_sudan.png)
+- ![space_invader](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//space_invader.png)
+- ![spades](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//spades.png)
+- ![spaghetti](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//spaghetti.png)
+- ![sparkle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sparkle.png)
+- ![sparkler](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sparkler.png)
+- ![sparkles](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sparkles.png)
+- ![sparkling_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sparkling_heart.png)
+- ![speak_no_evil](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//speak_no_evil.png)
+- ![speaker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//speaker.png)
+- ![speaking_head](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//speaking_head.png)
+- ![speech_balloon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//speech_balloon.png)
+- ![speedboat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//speedboat.png)
+- ![spider](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//spider.png)
+- ![spider_web](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//spider_web.png)
+- ![spiral_calendar](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//spiral_calendar.png)
+- ![spiral_notepad](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//spiral_notepad.png)
+- ![sponge](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sponge.png)
+- ![spoon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//spoon.png)
+- ![squid](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//squid.png)
+- ![sri_lanka](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sri_lanka.png)
+- ![st_barthelemy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//st_barthelemy.png)
+- ![st_helena](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//st_helena.png)
+- ![st_kitts_nevis](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//st_kitts_nevis.png)
+- ![st_lucia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//st_lucia.png)
+- ![st_martin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//st_martin.png)
+- ![st_pierre_miquelon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//st_pierre_miquelon.png)
+- ![st_vincent_grenadines](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//st_vincent_grenadines.png)
+- ![stadium](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stadium.png)
+- ![standing_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//standing_man.png)
+- ![standing_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//standing_person.png)
+- ![standing_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//standing_woman.png)
+- ![star](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//star.png)
+- ![star2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//star2.png)
+- ![star_and_crescent](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//star_and_crescent.png)
+- ![star_of_david](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//star_of_david.png)
+- ![star_struck](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//star_struck.png)
+- ![stars](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stars.png)
+- ![station](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//station.png)
+- ![statue_of_liberty](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//statue_of_liberty.png)
+- ![steam_locomotive](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//steam_locomotive.png)
+- ![stethoscope](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stethoscope.png)
+- ![stew](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stew.png)
+- ![stop_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stop_button.png)
+- ![stop_sign](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stop_sign.png)
+- ![stopwatch](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stopwatch.png)
+- ![straight_ruler](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//straight_ruler.png)
+- ![strawberry](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//strawberry.png)
+- ![stuck_out_tongue](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stuck_out_tongue.png)
+- ![stuck_out_tongue_closed_eyes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stuck_out_tongue_closed_eyes.png)
+- ![stuck_out_tongue_winking_eye](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stuck_out_tongue_winking_eye.png)
+- ![student](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//student.png)
+- ![studio_microphone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//studio_microphone.png)
+- ![stuffed_flatbread](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//stuffed_flatbread.png)
+- ![sudan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sudan.png)
+- ![sun_behind_large_cloud](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sun_behind_large_cloud.png)
+- ![sun_behind_rain_cloud](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sun_behind_rain_cloud.png)
+- ![sun_behind_small_cloud](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sun_behind_small_cloud.png)
+- ![sun_with_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sun_with_face.png)
+- ![sunflower](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sunflower.png)
+- ![sunglasses](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sunglasses.png)
+- ![sunny](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sunny.png)
+- ![sunrise](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sunrise.png)
+- ![sunrise_over_mountains](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sunrise_over_mountains.png)
+- ![superhero](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//superhero.png)
+- ![superhero_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//superhero_man.png)
+- ![superhero_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//superhero_woman.png)
+- ![supervillain](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//supervillain.png)
+- ![supervillain_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//supervillain_man.png)
+- ![supervillain_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//supervillain_woman.png)
+- ![surfer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//surfer.png)
+- ![surfing_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//surfing_man.png)
+- ![surfing_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//surfing_woman.png)
+- ![suriname](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//suriname.png)
+- ![sushi](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sushi.png)
+- ![suspect](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//suspect.png)
+- ![suspension_railway](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//suspension_railway.png)
+- ![svalbard_jan_mayen](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//svalbard_jan_mayen.png)
+- ![swan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//swan.png)
+- ![swaziland](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//swaziland.png)
+- ![sweat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sweat.png)
+- ![sweat_drops](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sweat_drops.png)
+- ![sweat_smile](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sweat_smile.png)
+- ![sweden](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sweden.png)
+- ![sweet_potato](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//sweet_potato.png)
+- ![swim_brief](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//swim_brief.png)
+- ![swimmer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//swimmer.png)
+- ![swimming_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//swimming_man.png)
+- ![swimming_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//swimming_woman.png)
+- ![switzerland](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//switzerland.png)
+- ![symbols](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//symbols.png)
+- ![synagogue](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//synagogue.png)
+- ![syria](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//syria.png)
+- ![syringe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//syringe.png)
+- ![t-rex](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//t-rex.png)
+- ![taco](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//taco.png)
+- ![tada](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tada.png)
+- ![taiwan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//taiwan.png)
+- ![tajikistan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tajikistan.png)
+- ![takeout_box](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//takeout_box.png)
+- ![tamale](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tamale.png)
+- ![tanabata_tree](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tanabata_tree.png)
+- ![tangerine](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tangerine.png)
+- ![tanzania](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tanzania.png)
+- ![taurus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//taurus.png)
+- ![taxi](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//taxi.png)
+- ![tea](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tea.png)
+- ![teacher](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//teacher.png)
+- ![teapot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//teapot.png)
+- ![technologist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//technologist.png)
+- ![teddy_bear](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//teddy_bear.png)
+- ![telephone](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//telephone.png)
+- ![telephone_receiver](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//telephone_receiver.png)
+- ![telescope](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//telescope.png)
+- ![tennis](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tennis.png)
+- ![tent](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tent.png)
+- ![test_tube](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//test_tube.png)
+- ![thailand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//thailand.png)
+- ![thermometer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//thermometer.png)
+- ![thinking](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//thinking.png)
+- ![thong_sandal](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//thong_sandal.png)
+- ![thought_balloon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//thought_balloon.png)
+- ![thread](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//thread.png)
+- ![three](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//three.png)
+- ![thumbsdown](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//thumbsdown.png)
+- ![thumbsup](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//thumbsup.png)
+- ![ticket](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ticket.png)
+- ![tickets](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tickets.png)
+- ![tiger](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tiger.png)
+- ![tiger2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tiger2.png)
+- ![timer_clock](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//timer_clock.png)
+- ![timor_leste](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//timor_leste.png)
+- ![tipping_hand_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tipping_hand_man.png)
+- ![tipping_hand_person](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tipping_hand_person.png)
+- ![tipping_hand_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tipping_hand_woman.png)
+- ![tired_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tired_face.png)
+- ![tm](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tm.png)
+- ![togo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//togo.png)
+- ![toilet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//toilet.png)
+- ![tokelau](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tokelau.png)
+- ![tokyo_tower](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tokyo_tower.png)
+- ![tomato](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tomato.png)
+- ![tonga](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tonga.png)
+- ![tongue](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tongue.png)
+- ![toolbox](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//toolbox.png)
+- ![tooth](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tooth.png)
+- ![toothbrush](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//toothbrush.png)
+- ![top](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//top.png)
+- ![tophat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tophat.png)
+- ![tornado](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tornado.png)
+- ![tr](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tr.png)
+- ![trackball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//trackball.png)
+- ![tractor](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tractor.png)
+- ![traffic_light](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//traffic_light.png)
+- ![train](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//train.png)
+- ![train2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//train2.png)
+- ![tram](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tram.png)
+- ![transgender_flag](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//transgender_flag.png)
+- ![transgender_symbol](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//transgender_symbol.png)
+- ![triangular_flag_on_post](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//triangular_flag_on_post.png)
+- ![triangular_ruler](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//triangular_ruler.png)
+- ![trident](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//trident.png)
+- ![trinidad_tobago](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//trinidad_tobago.png)
+- ![tristan_da_cunha](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tristan_da_cunha.png)
+- ![triumph](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//triumph.png)
+- ![troll](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//troll.png)
+- ![trolleybus](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//trolleybus.png)
+- ![trollface](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//trollface.png)
+- ![trophy](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//trophy.png)
+- ![tropical_drink](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tropical_drink.png)
+- ![tropical_fish](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tropical_fish.png)
+- ![truck](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//truck.png)
+- ![trumpet](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//trumpet.png)
+- ![tshirt](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tshirt.png)
+- ![tulip](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tulip.png)
+- ![tumbler_glass](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tumbler_glass.png)
+- ![tunisia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tunisia.png)
+- ![turkey](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//turkey.png)
+- ![turkmenistan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//turkmenistan.png)
+- ![turks_caicos_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//turks_caicos_islands.png)
+- ![turtle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//turtle.png)
+- ![tuvalu](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tuvalu.png)
+- ![tv](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//tv.png)
+- ![twisted_rightwards_arrows](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//twisted_rightwards_arrows.png)
+- ![two](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//two.png)
+- ![two_hearts](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//two_hearts.png)
+- ![two_men_holding_hands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//two_men_holding_hands.png)
+- ![two_women_holding_hands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//two_women_holding_hands.png)
+- ![u5272](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u5272.png)
+- ![u5408](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u5408.png)
+- ![u55b6](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u55b6.png)
+- ![u6307](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u6307.png)
+- ![u6708](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u6708.png)
+- ![u6709](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u6709.png)
+- ![u6e80](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u6e80.png)
+- ![u7121](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u7121.png)
+- ![u7533](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u7533.png)
+- ![u7981](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u7981.png)
+- ![u7a7a](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//u7a7a.png)
+- ![uganda](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//uganda.png)
+- ![uk](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//uk.png)
+- ![ukraine](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//ukraine.png)
+- ![umbrella](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//umbrella.png)
+- ![unamused](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//unamused.png)
+- ![underage](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//underage.png)
+- ![unicorn](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//unicorn.png)
+- ![united_arab_emirates](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//united_arab_emirates.png)
+- ![united_nations](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//united_nations.png)
+- ![unlock](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//unlock.png)
+- ![up](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//up.png)
+- ![upside_down_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//upside_down_face.png)
+- ![uruguay](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//uruguay.png)
+- ![us](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//us.png)
+- ![us_outlying_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//us_outlying_islands.png)
+- ![us_virgin_islands](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//us_virgin_islands.png)
+- ![uzbekistan](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//uzbekistan.png)
+- ![v](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//v.png)
+- ![vampire](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vampire.png)
+- ![vampire_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vampire_man.png)
+- ![vampire_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vampire_woman.png)
+- ![vanuatu](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vanuatu.png)
+- ![vatican_city](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vatican_city.png)
+- ![venezuela](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//venezuela.png)
+- ![vertical_traffic_light](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vertical_traffic_light.png)
+- ![vhs](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vhs.png)
+- ![vibration_mode](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vibration_mode.png)
+- ![video_camera](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//video_camera.png)
+- ![video_game](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//video_game.png)
+- ![vietnam](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vietnam.png)
+- ![violin](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//violin.png)
+- ![virgo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//virgo.png)
+- ![volcano](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//volcano.png)
+- ![volleyball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//volleyball.png)
+- ![vomiting_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vomiting_face.png)
+- ![vs](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vs.png)
+- ![vulcan_salute](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//vulcan_salute.png)
+- ![waffle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//waffle.png)
+- ![wales](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wales.png)
+- ![walking](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//walking.png)
+- ![walking_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//walking_man.png)
+- ![walking_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//walking_woman.png)
+- ![wallis_futuna](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wallis_futuna.png)
+- ![waning_crescent_moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//waning_crescent_moon.png)
+- ![waning_gibbous_moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//waning_gibbous_moon.png)
+- ![warning](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//warning.png)
+- ![wastebasket](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wastebasket.png)
+- ![watch](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//watch.png)
+- ![water_buffalo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//water_buffalo.png)
+- ![water_polo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//water_polo.png)
+- ![watermelon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//watermelon.png)
+- ![wave](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wave.png)
+- ![wavy_dash](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wavy_dash.png)
+- ![waxing_crescent_moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//waxing_crescent_moon.png)
+- ![waxing_gibbous_moon](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//waxing_gibbous_moon.png)
+- ![wc](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wc.png)
+- ![weary](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//weary.png)
+- ![wedding](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wedding.png)
+- ![weight_lifting](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//weight_lifting.png)
+- ![weight_lifting_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//weight_lifting_man.png)
+- ![weight_lifting_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//weight_lifting_woman.png)
+- ![western_sahara](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//western_sahara.png)
+- ![whale](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//whale.png)
+- ![whale2](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//whale2.png)
+- ![wheel](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wheel.png)
+- ![wheel_of_dharma](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wheel_of_dharma.png)
+- ![wheelchair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wheelchair.png)
+- ![white_check_mark](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_check_mark.png)
+- ![white_circle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_circle.png)
+- ![white_flag](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_flag.png)
+- ![white_flower](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_flower.png)
+- ![white_haired_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_haired_man.png)
+- ![white_haired_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_haired_woman.png)
+- ![white_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_heart.png)
+- ![white_large_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_large_square.png)
+- ![white_medium_small_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_medium_small_square.png)
+- ![white_medium_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_medium_square.png)
+- ![white_small_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_small_square.png)
+- ![white_square_button](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//white_square_button.png)
+- ![wilted_flower](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wilted_flower.png)
+- ![wind_chime](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wind_chime.png)
+- ![wind_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wind_face.png)
+- ![window](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//window.png)
+- ![wine_glass](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wine_glass.png)
+- ![wing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wing.png)
+- ![wink](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wink.png)
+- ![wireless](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wireless.png)
+- ![wolf](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wolf.png)
+- ![woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman.png)
+- ![woman_artist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_artist.png)
+- ![woman_astronaut](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_astronaut.png)
+- ![woman_beard](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_beard.png)
+- ![woman_cartwheeling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_cartwheeling.png)
+- ![woman_cook](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_cook.png)
+- ![woman_dancing](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_dancing.png)
+- ![woman_facepalming](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_facepalming.png)
+- ![woman_factory_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_factory_worker.png)
+- ![woman_farmer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_farmer.png)
+- ![woman_feeding_baby](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_feeding_baby.png)
+- ![woman_firefighter](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_firefighter.png)
+- ![woman_health_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_health_worker.png)
+- ![woman_in_manual_wheelchair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_in_manual_wheelchair.png)
+- ![woman_in_motorized_wheelchair](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_in_motorized_wheelchair.png)
+- ![woman_in_tuxedo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_in_tuxedo.png)
+- ![woman_judge](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_judge.png)
+- ![woman_juggling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_juggling.png)
+- ![woman_mechanic](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_mechanic.png)
+- ![woman_office_worker](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_office_worker.png)
+- ![woman_pilot](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_pilot.png)
+- ![woman_playing_handball](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_playing_handball.png)
+- ![woman_playing_water_polo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_playing_water_polo.png)
+- ![woman_scientist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_scientist.png)
+- ![woman_shrugging](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_shrugging.png)
+- ![woman_singer](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_singer.png)
+- ![woman_student](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_student.png)
+- ![woman_teacher](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_teacher.png)
+- ![woman_technologist](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_technologist.png)
+- ![woman_with_headscarf](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_with_headscarf.png)
+- ![woman_with_probing_cane](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_with_probing_cane.png)
+- ![woman_with_turban](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_with_turban.png)
+- ![woman_with_veil](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woman_with_veil.png)
+- ![womans_clothes](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//womans_clothes.png)
+- ![womans_hat](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//womans_hat.png)
+- ![women_wrestling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//women_wrestling.png)
+- ![womens](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//womens.png)
+- ![wood](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wood.png)
+- ![woozy_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//woozy_face.png)
+- ![world_map](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//world_map.png)
+- ![worm](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//worm.png)
+- ![worried](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//worried.png)
+- ![wrench](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wrench.png)
+- ![wrestling](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//wrestling.png)
+- ![writing_hand](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//writing_hand.png)
+- ![x](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//x.png)
+- ![x_ray](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//x_ray.png)
+- ![yarn](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yarn.png)
+- ![yawning_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yawning_face.png)
+- ![yellow_circle](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yellow_circle.png)
+- ![yellow_heart](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yellow_heart.png)
+- ![yellow_square](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yellow_square.png)
+- ![yemen](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yemen.png)
+- ![yen](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yen.png)
+- ![yin_yang](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yin_yang.png)
+- ![yo_yo](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yo_yo.png)
+- ![yum](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//yum.png)
+- ![zambia](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zambia.png)
+- ![zany_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zany_face.png)
+- ![zap](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zap.png)
+- ![zebra](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zebra.png)
+- ![zero](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zero.png)
+- ![zimbabwe](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zimbabwe.png)
+- ![zipper_mouth_face](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zipper_mouth_face.png)
+- ![zombie](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zombie.png)
+- ![zombie_man](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zombie_man.png)
+- ![zombie_woman](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zombie_woman.png)
+- ![zzz](https://raw.githubusercontent.com/hieudoanm/emojis/refs/heads/master/images//zzz.png)

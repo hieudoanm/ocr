@@ -1,18 +1,18 @@
 {
-  "name": "@ocr/app",
+  "name": "@emojis/app",
   "version": "0.0.1",
   "private": true,
-  "description": "OCR - Optical Character Recognition",
+  "description": "Emojis",
   "keywords": [
-    "ocr"
+    "emojis"
   ],
-  "homepage": "https://hieudoanm.github.io/ocr",
+  "homepage": "https://hieudoanm.github.io/emojis",
   "bugs": {
-    "url": "https://github.com/hieudoanm/ocr/issues"
+    "url": "https://github.com/hieudoanm/emojis/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hieudoanm/ocr.git"
+    "url": "git+ssh://git@github.com/hieudoanm/emojis.git"
   },
   "license": "GPL-3.0",
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",

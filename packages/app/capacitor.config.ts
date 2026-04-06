@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.github.hieudoanm.ocr',
-  appName: 'OCR',
+  appId: 'io.github.hieudoanm.emojis',
+  appName: 'Emojis',
   webDir: '../../docs',
   android: { path: 'mobile/android' },
   ios: { path: 'mobile/ios' },

@@ -3,7 +3,7 @@ Copyright © 2026 NAME HERE <EMAIL ADDRESS>
 */
 package main
 
-import "github.com/hieudoanm/ocr/src/cmd"
+import "github.com/hieudoanm/emojis/src/cmd"
 
 func main() {
 	cmd.Execute()

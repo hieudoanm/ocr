@@ -3,8 +3,8 @@
 # Exit immediately if a command exits with a non-zero status
 set -e
 
-BIN_NAME="ocr"
-REPO_URL="https://github.com/hieudoanm/ocr/raw/refs/heads/master/packages/cli/bin/ocr"
+BIN_NAME="emojis"
+REPO_URL="https://github.com/hieudoanm/emojis/raw/refs/heads/master/packages/cli/bin/emojis"
 INSTALL_DIR="/usr/local/bin"
 
 echo "Downloading $BIN_NAME..."

@@ -1,8 +1,8 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "ocr",
+  "productName": "emojis",
   "version": "0.0.1",
-  "identifier": "io.github.hieudoanm.ocr",
+  "identifier": "io.github.hieudoanm.emojis",
   "build": {
     "frontendDist": "../../../docs",
     "devUrl": "http://localhost:3000",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "OCR",
+        "title": "Emojis",
         "width": 800,
         "height": 600,
         "resizable": true,

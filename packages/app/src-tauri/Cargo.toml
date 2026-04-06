@@ -1,10 +1,10 @@
 [package]
-name = "ocr"
+name = "emojis"
 version = "0.0.1"
-description = "OCR"
+description = "Emojis"
 authors = ["hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)"]
 license = "GPT-3.0"
-repository = "git+ssh://git@github.com/hieudoanm/ocr.git"
+repository = "git+ssh://git@github.com/hieudoanm/emojis.git"
 edition = "2021"
 rust-version = "1.77.2"
 

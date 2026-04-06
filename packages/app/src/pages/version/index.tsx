@@ -1,4 +1,4 @@
-import { VersionTemplate } from '@ocr/templates/VersionTemplate';
+import { VersionTemplate } from '@emojis/templates/VersionTemplate';
 import { GetStaticProps, NextPage } from 'next';
 
 type Props = {

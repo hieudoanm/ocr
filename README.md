@@ -1,8 +1,8 @@
-# 🚀 [Ocr](https://hieudoanm.github.io/ocr/)
+# 🚀 [Emojis](https://hieudoanm.github.io/emojis/)
 
 ## 📚 Table of Contents
 
-- [🚀 Ocr](#-ocr)
+- [🚀 Emojis](#-emojis)
   - [📚 Table of Contents](#-table-of-contents)
   - [📖 1. Overview](#-1-overview)
   - [✨ 2. Features](#-2-features)
@@ -19,11 +19,11 @@
 
 ## 📖 1. Overview
 
-Ocr is a focused project in this monorepo that delivers a practical tool with a clean user experience across platforms.
+Emojis is a focused project in this monorepo that delivers a practical tool with a clean user experience across platforms.
 
 ## ✨ 2. Features
 
-1. [x] Core functionality tailored to Ocr
+1. [x] Core functionality tailored to Emojis
 2. [x] Web experience for quick access
 3. [x] CLI distribution for automation workflows
 4. [x] Mobile-ready build targets
@@ -31,17 +31,17 @@ Ocr is a focused project in this monorepo that delivers a practical tool with a 
 
 ## 🎥 3. Demo
 
-- 🌐 [Live Demo](https://hieudoanm.github.io/ocr/)
+- 🌐 [Live Demo](https://hieudoanm.github.io/emojis/)
 
 ## 🚀 4. Usage
 
-- 🌐 [Web](https://hieudoanm.github.io/ocr/)
-- 💻 [CLI](https://github.com/hieudoanm/ocr/releases)
-- 📱 [Mobile](https://github.com/hieudoanm/ocr/releases)
-- 🖥️ [Desktop](https://github.com/hieudoanm/ocr/releases)
-  - 🍎 [MacOS](https://github.com/hieudoanm/ocr/releases/tag/macos-latest)
-  - 🐧 [Ubuntu](https://github.com/hieudoanm/ocr/releases/tag/ubuntu-latest)
-  - 🪟 [Windows](https://github.com/hieudoanm/ocr/releases/tag/windows-latest)
+- 🌐 [Web](https://hieudoanm.github.io/emojis/)
+- 💻 [CLI](https://github.com/hieudoanm/emojis/releases)
+- 📱 [Mobile](https://github.com/hieudoanm/emojis/releases)
+- 🖥️ [Desktop](https://github.com/hieudoanm/emojis/releases)
+  - 🍎 [MacOS](https://github.com/hieudoanm/emojis/releases/tag/macos-latest)
+  - 🐧 [Ubuntu](https://github.com/hieudoanm/emojis/releases/tag/ubuntu-latest)
+  - 🪟 [Windows](https://github.com/hieudoanm/emojis/releases/tag/windows-latest)
 
 ## 🛠️ 5. Development Stack
 

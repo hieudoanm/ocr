@@ -1,4 +1,4 @@
-import { LandingTemplate } from '@ocr/templates/LandingTemplate';
+import { LandingTemplate } from '@emojis/templates/LandingTemplate';
 import { NextPage } from 'next';
 
 const HomePage: NextPage = () => {

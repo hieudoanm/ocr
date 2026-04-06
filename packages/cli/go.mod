@@ -1,4 +1,4 @@
-module github.com/hieudoanm/ocr
+module github.com/hieudoanm/emojis
 
 go 1.26.1
 

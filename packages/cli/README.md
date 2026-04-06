@@ -1,8 +1,8 @@
-# 🚀 Ocr CLI
+# 🚀 Emojis CLI
 
 ## 📚 Table of Contents
 
-- [🚀 Ocr CLI](#-json-cli)
+- [🚀 Emojis CLI](#-emojis-cli)
   - [📚 Table of Contents](#-table-of-contents)
   - [📦 Installation](#-installation)
   - [🚀 Usage](#-usage)
@@ -11,13 +11,13 @@
 ## 📦 Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/hieudoanm/ocr/master/packages/cli/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/hieudoanm/emojis/master/packages/cli/scripts/install.sh | bash
 ```
 
 ## 🚀 Usage
 
 ```bash
-ocr
+emojis
 ```
 
 ## 📄 License

@@ -1,11 +1,11 @@
 .PHONY: lint format build install all
 
 BIN_DIR := bin
-BIN_NAME := ocr
+BIN_NAME := emojis
 SRC := ./main.go
 
 VERSION := $(shell date +%Y.%m.%d.%H.%M.%S)
-LDFLAGS := -ldflags="-X 'github.com/hieudoanm/ocr/src/cmd.Version=$(VERSION)'"
+LDFLAGS := -ldflags="-X 'github.com/hieudoanm/emojis/src/cmd.Version=$(VERSION)'"
 
 
 ## Commands
